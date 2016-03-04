@@ -1,36 +1,38 @@
 # main text of home
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Breno da Mata
+bio: 'Product Manager & Ruby on Rails Software Engineer'
 
 # if it's an external image, update below for true
 external-image: false
-picture: 'assets/images/profile.jpg'
+picture: 'assets/images/profile.png'
 
-url: http://sergiokopplin.github.io/indigo
-# your url: http://USERNAME.github.io
+# Prod URL
+# url: http://brenodamata.github.io
+# Dev URL
+url: http://127.0.0.1:4000/
 
 permalink: /:title/
 
 markdown: kramdown
 highlighter: rouge
 
-analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-63980603-1'
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+disqus: brenodamata
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: brenodamata
+twitter: brenodamata
 # google: mygoogle
-# instagram: myinstagram
-# pinterest: mypinterest
-linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-email: myemail@gmail.com
+instagram: brenodamata
+# pinterest: brenodamata
+linkedin: in/brenodamata
+# youtube: brenodamata
+# spotify: brenodamata
+github: brenodamata
+medium: brenodm
+email: bjrdamata@gmail.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
