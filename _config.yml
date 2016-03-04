@@ -7,9 +7,9 @@ external-image: false
 picture: 'assets/images/profile.png'
 
 # Prod URL
-# url: http://brenodamata.github.io
+url: http://brenodamata.github.io
 # Dev URL
-url: http://127.0.0.1:4000/
+# url: http://127.0.0.1:4000/
 
 permalink: /:title/
 
