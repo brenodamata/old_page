@@ -22,26 +22,40 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Ruby on Rails</li>
+	<li>HTML - Erb - CSS Bootstrap</li>
+	<li>Git - SVN - SourceSafe</li>
+	<li>Sketch</li>
+	<li>Java - c# - .NET</li>
+	<li>MySQL - PostgreSQL - SQL - Oracle</li>
+	<li>Scrum</li>
+	<li>TDD and BDD</li>
+	<li>What I don't know I learn fast :)</li>
 </ul>
+<!-- 
+WORKFLOW
+A lista completa das tecnologias, ferramentas, padrões e metodologias que utilizo no meu Workflow, você encontra neste link. https://github.com/vitorbritto/workflow-guide
+
+EXPERTISES
+
+UI/UX DesignFront-EndBack-End
+TECNOLOGIAS
+
+HTML5CSS3JavaScriptPHPRubyNodeJSMySQLSQLitePostgreSQLMongoDBCouchDB
+RECURSOS MAIS UTILIZADOS
+
+GitWordPressWooCommercejQueryBackboneAngularJSExpressCordova/PhonegapIonicPouchDBRailsSinatraSlimSassStylusLessGruntGulpnpmcomposerBundlerLoDashJadeHamlMarkdownMocha + ChaiQUnitBrowserifyJekyllCode ClimateTravis CIWerckerCodeshipCoverage
+FERRAMENTAS DE TRABALHO
+
+TerminalSlackTrelloGoogle DriveAxure RPAsanaEvernoteDropboxPhotoshopIllustratorAtomVIMFirefoxGoogle ChromeDev ToolsFirebugSourceTreeFileZillaSequel ProMySQL Workbench
+EXPERIMENTOS E PASSATEMPO
+ Unix & Shell ScriptHaskellErlang + Elixir -->
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="http://flipem.com">Flipem</a></li>
+	<li><a href="http://yondermusic.com">Yonder Music</a></li>
+	<li><a href="http://nowon.com.br">NowOn</a></li>
+	<li><a href="https://github.com/brenodamata/imdb-faker">IMDB Faker - Ruby Gem</a></li>
 </ul>
