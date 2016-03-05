@@ -1,6 +1,9 @@
 ## Breno
 
 ---
+## Theme
+
+[Indigo](https://github.com/sergiokopplin/indigo) by [Kopplin](https://github.com/sergiokopplin)
 
 ## License
 
