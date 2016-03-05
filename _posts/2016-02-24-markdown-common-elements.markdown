@@ -6,6 +6,7 @@ tag:
 - markdown
 - elements
 blog: true
+draft: true
 star: true
 ---
 
