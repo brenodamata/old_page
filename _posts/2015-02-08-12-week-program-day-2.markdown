@@ -1,29 +1,29 @@
 ---
-title: "12 Week Program Day 1"
+title: "12 Week Program Day 2"
 layout: post
-date: 2016-03-07 21:20
+date: 2016-03-08 10:00
 tag:
 - gym
 - fitness
 blog: true
-draft: false
+draft: true
 star: false
 ---
 [:muscle:](http://bodyspace.bodybuilding.com/brenodamata/) <br>
 
 ## Day 1:
-
+<!-- Energy out of four batteries -->
 Energy Level: :battery::battery::battery: <br>
 Self Rating: :eight: <br>
 [:running:](https://www.fitbit.com/user/3WJZ2S)
 
 ## Stats
  
- * Total Exercises: 10
- * Total Sets: 36
- * Total Weight Lifted: 37,460 lbs.
- * Total Workout Time: 01:29 hr:min
- * Total Cardio: 00:00 hr:min
+ * Total Exercises: 
+ * Total Sets: 
+ * Total Weight Lifted: 
+ * Total Workout Time: 
+ * Total Cardio: 
 
 
 ## Muscles Worked: 
@@ -50,13 +50,13 @@ Self Rating: :eight: <br>
 ## Nutrition
 
 #### :ocean: Water intake:
-~3 lt 
+~ lt 
 
 #### :egg: Breakfast:
-:clock930: Two large eggs with low fat cheese. Cup of coffee.
+:clock930: Three large eggs. 1 slice of whole wheat bread with organic blueberries preserves. 1 Cup of coffee.
 
 #### :poultry_leg: Lunch:
-:clock1: Lasnga. Piece of chockolate cake :cake:
+:clock1: 
 
 #### Pre-workout:
 :clock4: Protein Shake: 1 1/2 scoops of Hydro Whey, 5mg of Creatine, 1/2 advocato, 1 tps of peanut butter, 1/4 cup of blueberries, 1 strawberry, 1/2 banna with 2% Milk.
@@ -102,7 +102,6 @@ Bodyfat: 16.3%
 2. Workout longer than it should have been. Double check rest time.
 3. Demanding workout.
 
-[fitbit-profile]: www.fitbit.com/user/3WJZ2S
 [weight]: https://ipfs.pics/ipfs/Qmc2UGFKA21U6oATLpvajBSiNQo7DZcproprrRkbXjFXaL
 [lean-vs-fat]: https://ipfs.pics/ipfs/QmbcPCp9TTKmryfnviNfTyf2TeyFNFRUrxhzwMg8o7TfzQ
 [heart-rate]: https://ipfs.pics/ipfs/Qmceq7u4kqAKyq5dzVchSPYcMJtFHWMJp7wkB6HYHWhS6Q
