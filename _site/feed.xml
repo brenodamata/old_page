@@ -1,18 +1,130 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
-<link href="http://brenodamata.github.io/feed.xml" rel="self" type="application/atom+xml" />
-<link href="http://brenodamata.github.io/" rel="alternate" type="text/html" />
-<updated>2016-03-06T20:07:15-05:00</updated>
-<id>http://brenodamata.github.io/</id>
+<link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
+<link href="http://localhost:3000/" rel="alternate" type="text/html" />
+<updated>2016-03-07T22:40:23-05:00</updated>
+<id>http://localhost:3000/</id>
 <title>Breno da Mata</title>
 <entry>
+<title>12 Week Program Day 1</title>
+<link href="http://localhost:3000/12-week-program-day-1/" rel="alternate" type="text/html" title="12 Week Program Day 1" />
+<published>2016-03-07T21:20:00-05:00</published>
+<updated>2016-03-07T21:20:00-05:00</updated>
+<id>http://localhost:3000/12-week-program-day-1</id>
+<content type="html" xml:base="http://localhost:3000/12-week-program-day-1/">&lt;p&gt;&lt;img class=&quot;emoji&quot; title=&quot;:muscle:&quot; alt=&quot;:muscle:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4aa.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;day-1&quot;&gt;Day 1:&lt;/h2&gt;
+
+&lt;p&gt;Energy Level: &lt;img class=&quot;emoji&quot; title=&quot;:battery:&quot; alt=&quot;:battery:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f50b.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:battery:&quot; alt=&quot;:battery:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f50b.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:battery:&quot; alt=&quot;:battery:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f50b.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;br /&gt;
+Self Rating: &lt;img class=&quot;emoji&quot; title=&quot;:eight:&quot; alt=&quot;:eight:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/0038-20e3.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;stats&quot;&gt;Stats&lt;/h2&gt;
+&lt;p&gt;&lt;img class=&quot;emoji&quot; title=&quot;:clock530:&quot; alt=&quot;:clock530:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f560.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Total Exercises: 10&lt;/li&gt;
+  &lt;li&gt;Total Sets: 36&lt;/li&gt;
+  &lt;li&gt;Total Weight Lifted: 37,460 lbs.&lt;/li&gt;
+  &lt;li&gt;Total Workout Time: 01:29 hr:min&lt;/li&gt;
+  &lt;li&gt;Total Cardio: 00:00 hr:min&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;muscles-worked&quot;&gt;Muscles Worked:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Quadriceps   &lt;img class=&quot;emoji&quot; title=&quot;:white_check_mark:&quot; alt=&quot;:white_check_mark:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/2705.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Hamstrings   &lt;img class=&quot;emoji&quot; title=&quot;:white_check_mark:&quot; alt=&quot;:white_check_mark:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/2705.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Calves       &lt;img class=&quot;emoji&quot; title=&quot;:white_check_mark:&quot; alt=&quot;:white_check_mark:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/2705.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Abdominals   &lt;img class=&quot;emoji&quot; title=&quot;:white_check_mark:&quot; alt=&quot;:white_check_mark:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/2705.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Cardio       &lt;img class=&quot;emoji&quot; title=&quot;:x:&quot; alt=&quot;:x:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/274c.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://bodyspace.bodybuilding.com/workouts/viewworkoutlog/brenodamata/56de13ad0cf254b2d6541cd2&quot;&gt;Workout Details&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;breakdown&quot;&gt;Breakdown&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#nutrition&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:meat_on_bone:&quot; alt=&quot;:meat_on_bone:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f356.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Nutrition&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#supplementation&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:pill:&quot; alt=&quot;:pill:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f48a.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Supplementation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#current-body-composition&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:muscle:&quot; alt=&quot;:muscle:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4aa.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Current Body Composition&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#activity-hr&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:heartbeat:&quot; alt=&quot;:heartbeat:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f493.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Activity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#sleep&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:zzz:&quot; alt=&quot;:zzz:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4a4.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Sleep&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#pics&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:camera:&quot; alt=&quot;:camera:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4f7.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Progress Pics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#notes&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:notebook:&quot; alt=&quot;:notebook:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4d3.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Side Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;nutrition&quot;&gt;Nutrition&lt;/h2&gt;
+
+&lt;h4 id=&quot;img-classemoji-titleocean-altocean-srchttpsassetsgithubcomimagesiconsemojiunicode1f30apng-height20-width20-alignabsmiddle--water-intake&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:ocean:&quot; alt=&quot;:ocean:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f30a.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Water intake:&lt;/h4&gt;
+&lt;p&gt;~3 lt&lt;/p&gt;
+
+&lt;h4 id=&quot;img-classemoji-titleegg-altegg-srchttpsassetsgithubcomimagesiconsemojiunicode1f373png-height20-width20-alignabsmiddle--breakfast&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:egg:&quot; alt=&quot;:egg:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f373.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Breakfast:&lt;/h4&gt;
+&lt;p&gt;&lt;img class=&quot;emoji&quot; title=&quot;:clock930:&quot; alt=&quot;:clock930:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f564.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Two large eggs with low fat cheese. Cup of coffee.&lt;/p&gt;
+
+&lt;h4 id=&quot;img-classemoji-titlepoultryleg-altpoultryleg-srchttpsassetsgithubcomimagesiconsemojiunicode1f357png-height20-width20-alignabsmiddle--lunch&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:poultry_leg:&quot; alt=&quot;:poultry_leg:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f357.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Lunch:&lt;/h4&gt;
+&lt;p&gt;&lt;img class=&quot;emoji&quot; title=&quot;:clock1:&quot; alt=&quot;:clock1:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f550.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Lasnga. Piece of chockolate cake &lt;img class=&quot;emoji&quot; title=&quot;:cake:&quot; alt=&quot;:cake:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f370.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;pre-workout&quot;&gt;Pre-workout:&lt;/h4&gt;
+&lt;p&gt;&lt;img class=&quot;emoji&quot; title=&quot;:clock4:&quot; alt=&quot;:clock4:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f553.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Protein Shake: 1 1/2 scoops of Hydro Whey, 5mg of Creatine, 1/2 advocato, 1 tps of peanut butter, 1/4 cup of blueberries, 1 strawberry, 1/2 banna with 2% Milk.&lt;/p&gt;
+
+&lt;h4 id=&quot;post-worktout&quot;&gt;Post-worktout:&lt;/h4&gt;
+&lt;p&gt;&lt;img class=&quot;emoji&quot; title=&quot;:clock7:&quot; alt=&quot;:clock7:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f556.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; 1 scoop of Hydro Whey, 5mg of Creatine with 14oz of water.&lt;/p&gt;
+
+&lt;h4 id=&quot;img-classemoji-titlecurry-altcurry-srchttpsassetsgithubcomimagesiconsemojiunicode1f35bpng-height20-width20-alignabsmiddle--dinner&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:curry:&quot; alt=&quot;:curry:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f35b.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Dinner:&lt;/h4&gt;
+&lt;p&gt;&lt;img class=&quot;emoji&quot; title=&quot;:clock930:&quot; alt=&quot;:clock930:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f564.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; 1 scoop of Caisine and 1 Banana with 14oz of water. 1 Apple.&lt;/p&gt;
+
+&lt;h2 id=&quot;supplementation&quot;&gt;Supplementation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;3 Multivitamin pills. (breakfast, lunch, dinner)&lt;/li&gt;
+  &lt;li&gt;4 ZMA (bed-time)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;current-body-composition&quot;&gt;Current Body Composition&lt;/h2&gt;
+
+&lt;p&gt;Weight: 172.4 lbs &lt;br /&gt;
+Bodyfat: 16.3%&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://ipfs.pics/ipfs/Qmc2UGFKA21U6oATLpvajBSiNQo7DZcproprrRkbXjFXaL&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Weight graph from Fitbit&lt;/figcaption&gt;
+
+&lt;h2 id=&quot;activity-hr&quot;&gt;Activity HR&lt;/h2&gt;
+
+&lt;p&gt;127 BPM - Fatburn Zone &lt;img class=&quot;emoji&quot; title=&quot;:fire:&quot; alt=&quot;:fire:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f525.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://ipfs.pics/ipfs/Qmceq7u4kqAKyq5dzVchSPYcMJtFHWMJp7wkB6HYHWhS6Q&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Heart rate graph from Fitbit&lt;/figcaption&gt;
+
+&lt;h2 id=&quot;sleep&quot;&gt;Sleep&lt;/h2&gt;
+&lt;p&gt;&lt;img class=&quot;emoji&quot; title=&quot;:zzz:&quot; alt=&quot;:zzz:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4a4.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;br /&gt;
+TBA&lt;/p&gt;
+
+&lt;h2 id=&quot;pics&quot;&gt;Pics&lt;/h2&gt;
+
+&lt;p&gt;&lt;img class=&quot;emoji&quot; title=&quot;:no_entry_sign:&quot; alt=&quot;:no_entry_sign:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f6ab.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Switched to Fitbit’s Aria scale which has a different method of calculating bodyfat percentage, thus the 6.6% increase.&lt;/li&gt;
+  &lt;li&gt;Workout longer than it should have been. Double check rest time.&lt;/li&gt;
+  &lt;li&gt;Demanding workout.&lt;/li&gt;
+&lt;/ol&gt;
+
+</content>
+<category term="gym" />
+<category term="fitness" />
+<summary>:muscle: </summary>
+</entry>
+<entry>
 <title>IMDB Faker, Ruby Gem</title>
-<link href="http://brenodamata.github.io/imdb-faker-ruby-gem/" rel="alternate" type="text/html" title="IMDB Faker, Ruby Gem" />
+<link href="http://localhost:3000/imdb-faker-ruby-gem/" rel="alternate" type="text/html" title="IMDB Faker, Ruby Gem" />
 <published>2016-03-06T20:00:00-05:00</published>
 <updated>2016-03-06T20:00:00-05:00</updated>
-<id>http://brenodamata.github.io/imdb-faker-ruby-gem</id>
-<content type="html" xml:base="http://brenodamata.github.io/imdb-faker-ruby-gem/">&lt;p&gt;Example of project - IMDB Faker Ruby Gem - &lt;a href=&quot;https://github.com/brenodamata/imdb-faker&quot;&gt;Source&lt;/a&gt;. Simple name -&amp;amp; quote- generater inspired by my favorite movie characters.&lt;/p&gt;
+<id>http://localhost:3000/imdb-faker-ruby-gem</id>
+<content type="html" xml:base="http://localhost:3000/imdb-faker-ruby-gem/">&lt;p&gt;Example of project - IMDB Faker Ruby Gem - &lt;a href=&quot;https://github.com/brenodamata/imdb-faker&quot;&gt;Source&lt;/a&gt;. Simple name -&amp;amp; quote- generater inspired by my favorite movie characters.&lt;/p&gt;
 </content>
 <category term="ruby" />
 <category term="gems" />
@@ -21,11 +133,11 @@
 </entry>
 <entry>
 <title>Markdown Extra Components</title>
-<link href="http://brenodamata.github.io/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" />
+<link href="http://localhost:3000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" />
 <published>2016-02-24T22:48:00-05:00</published>
 <updated>2016-02-24T22:48:00-05:00</updated>
-<id>http://brenodamata.github.io/markdown-extra-components</id>
-<content type="html" xml:base="http://brenodamata.github.io/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+<id>http://localhost:3000/markdown-extra-components</id>
+<content type="html" xml:base="http://localhost:3000/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
 
 &lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;
 
@@ -200,11 +312,11 @@ star: true
 </entry>
 <entry>
 <title>Markdown Common Elements</title>
-<link href="http://brenodamata.github.io/markdown-common-elements/" rel="alternate" type="text/html" title="Markdown Common Elements" />
+<link href="http://localhost:3000/markdown-common-elements/" rel="alternate" type="text/html" title="Markdown Common Elements" />
 <published>2016-02-24T22:44:00-05:00</published>
 <updated>2016-02-24T22:44:00-05:00</updated>
-<id>http://brenodamata.github.io/markdown-common-elements</id>
-<content type="html" xml:base="http://brenodamata.github.io/markdown-common-elements/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+<id>http://localhost:3000/markdown-common-elements</id>
+<content type="html" xml:base="http://localhost:3000/markdown-common-elements/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
 
 &lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;
 
@@ -421,11 +533,11 @@ $(window).scroll(function() {&lt;/p&gt;
 </entry>
 <entry>
 <title>Indigo, minimalist jekyll theme</title>
-<link href="http://brenodamata.github.io/indigo-jekyll-theme/" rel="alternate" type="text/html" title="Indigo, minimalist jekyll theme" />
+<link href="http://localhost:3000/indigo-jekyll-theme/" rel="alternate" type="text/html" title="Indigo, minimalist jekyll theme" />
 <published>2016-01-23T22:10:00-05:00</published>
 <updated>2016-01-23T22:10:00-05:00</updated>
-<id>http://brenodamata.github.io/indigo-jekyll-theme</id>
-<content type="html" xml:base="http://brenodamata.github.io/indigo-jekyll-theme/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+<id>http://localhost:3000/indigo-jekyll-theme</id>
+<content type="html" xml:base="http://localhost:3000/indigo-jekyll-theme/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Example of project - Indigo Minimalist Jekyll Template - &lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Demo&lt;/a&gt;. This is a simple and minimalist template for Jekyll for those who likes to eat noodles.&lt;/p&gt;
 

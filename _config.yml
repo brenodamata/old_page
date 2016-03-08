@@ -8,8 +8,6 @@ picture: 'assets/images/profile.png'
 
 # Prod URL
 url: http://brenodamata.github.io
-# Dev URL
-# url: http://127.0.0.1:4000/
 
 permalink: /:title/
 
@@ -19,7 +17,7 @@ highlighter: rouge
 analytics-google: 'UA-63980603-1'
 
 # if you don't want comments in your posts, set to false
-disqus: brenodamata
+# disqus: brenodamata
 
 # if you don't have any of social below, comment the line
 # facebook: brenodamata

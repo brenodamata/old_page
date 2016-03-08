@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "12 Week Program Day 1",
+      "tags"     : "gym and fitness",
+      "url"      : "/12-week-program-day-1/",
+      "date"     : "07 Mar 2016"
+    } ,
+  
+    {
       "title"    : "IMDB Faker, Ruby Gem",
       "tags"     : "ruby, gems, and cinema",
       "url"      : "/imdb-faker-ruby-gem/",
