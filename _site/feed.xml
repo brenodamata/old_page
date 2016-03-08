@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-03-08T12:28:36-05:00</updated>
+<updated>2016-03-08T12:36:36-05:00</updated>
 <id>http://localhost:3000/</id>
 <title>Breno da Mata</title>
 <entry>
@@ -141,8 +141,8 @@ Self Rating: &lt;img class=&quot;emoji&quot; title=&quot;:question:&quot; alt=&q
 &lt;img class=&quot;emoji&quot; title=&quot;:heartbeat:&quot; alt=&quot;:heartbeat:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f493.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;a href=&quot;#activity-hr&quot;&gt;Activity&lt;/a&gt; &lt;br /&gt;
 &lt;img class=&quot;emoji&quot; title=&quot;:zzz:&quot; alt=&quot;:zzz:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4a4.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;a href=&quot;#sleep&quot;&gt;Sleep&lt;/a&gt; &lt;br /&gt;
 &lt;img class=&quot;emoji&quot; title=&quot;:camera:&quot; alt=&quot;:camera:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4f7.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;a href=&quot;#progress-pics&quot;&gt;Progress Pics&lt;/a&gt; &lt;br /&gt;
-&lt;img class=&quot;emoji&quot; title=&quot;:hurtrealbad:&quot; alt=&quot;:hurtrealbad:&quot; src=&quot;https://assets.github.com/images/icons/emoji/hurtrealbad.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;a href=&quot;#workout_feedback&quot;&gt;Workout Feedback&lt;/a&gt; &lt;br /&gt;
-&lt;img class=&quot;emoji&quot; title=&quot;:pencil:&quot; alt=&quot;:pencil:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4dd.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;a href=&quot;#side_notes&quot;&gt;Side Notes&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;
+&lt;img class=&quot;emoji&quot; title=&quot;:hurtrealbad:&quot; alt=&quot;:hurtrealbad:&quot; src=&quot;https://assets.github.com/images/icons/emoji/hurtrealbad.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;a href=&quot;#workout-feedback&quot;&gt;Workout Feedback&lt;/a&gt; &lt;br /&gt;
+&lt;img class=&quot;emoji&quot; title=&quot;:pencil:&quot; alt=&quot;:pencil:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4dd.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;a href=&quot;#side-notes&quot;&gt;Side Notes&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -205,7 +205,7 @@ Bodyfat: 16.3%&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;emoji&quot; title=&quot;:shipit:&quot; alt=&quot;:shipit:&quot; src=&quot;https://assets.github.com/images/icons/emoji/shipit.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
+&lt;h2 id=&quot;side-notes&quot;&gt;Side Notes&lt;/h2&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Notes here&lt;/li&gt;
@@ -305,8 +305,8 @@ Self Rating: &lt;img class=&quot;emoji&quot; title=&quot;:eight:&quot; alt=&quot
 &lt;img class=&quot;emoji&quot; title=&quot;:heartbeat:&quot; alt=&quot;:heartbeat:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f493.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;a href=&quot;#activity-hr&quot;&gt;Activity&lt;/a&gt; &lt;br /&gt;
 &lt;img class=&quot;emoji&quot; title=&quot;:zzz:&quot; alt=&quot;:zzz:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4a4.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;a href=&quot;#sleep&quot;&gt;Sleep&lt;/a&gt; &lt;br /&gt;
 &lt;img class=&quot;emoji&quot; title=&quot;:camera:&quot; alt=&quot;:camera:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4f7.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;a href=&quot;#progress-pics&quot;&gt;Progress Pics&lt;/a&gt; &lt;br /&gt;
-&lt;img class=&quot;emoji&quot; title=&quot;:thought_balloon:&quot; alt=&quot;:thought_balloon:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4ad.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;a href=&quot;#workout_feedback&quot;&gt;Workout Feedback&lt;/a&gt; &lt;br /&gt;
-&lt;img class=&quot;emoji&quot; title=&quot;:pencil:&quot; alt=&quot;:pencil:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4dd.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;a href=&quot;#side_notes&quot;&gt;Side Notes&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;
+&lt;img class=&quot;emoji&quot; title=&quot;:thought_balloon:&quot; alt=&quot;:thought_balloon:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4ad.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;a href=&quot;#workout-feedback&quot;&gt;Workout Feedback&lt;/a&gt; &lt;br /&gt;
+&lt;img class=&quot;emoji&quot; title=&quot;:pencil:&quot; alt=&quot;:pencil:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4dd.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;a href=&quot;#side-notes&quot;&gt;Side Notes&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 

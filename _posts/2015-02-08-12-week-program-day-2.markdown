@@ -92,8 +92,8 @@ Self Rating: :question: <br>
 :heartbeat: [Activity](#activity-hr) <br>
 :zzz: [Sleep](#sleep) <br>
 :camera: [Progress Pics](#progress-pics) <br>
-:hurtrealbad: [Workout Feedback](#workout_feedback) <br>
-:pencil: [Side Notes](#side_notes) <br>
+:hurtrealbad: [Workout Feedback](#workout-feedback) <br>
+:pencil: [Side Notes](#side-notes) <br>
 
 ---
 
@@ -154,7 +154,7 @@ Bodyfat: 16.3%
 
 :shipit:
 
-## Notes
+## Side Notes
 
 1. Notes here
 

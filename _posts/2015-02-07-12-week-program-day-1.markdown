@@ -92,8 +92,8 @@ Self Rating: :eight: <br>
 :heartbeat: [Activity](#activity-hr) <br>
 :zzz: [Sleep](#sleep) <br>
 :camera: [Progress Pics](#progress-pics) <br>
-:thought_balloon: [Workout Feedback](#workout_feedback) <br>
-:pencil: [Side Notes](#side_notes) <br>
+:thought_balloon: [Workout Feedback](#workout-feedback) <br>
+:pencil: [Side Notes](#side-notes) <br>
 
 ---
 
