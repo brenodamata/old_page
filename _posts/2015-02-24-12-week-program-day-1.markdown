@@ -9,16 +9,16 @@ blog: true
 draft: false
 star: false
 ---
-:muscle: <br>
+[:muscle:](http://bodyspace.bodybuilding.com/brenodamata/) <br>
 
 ## Day 1:
 
 Energy Level: :battery::battery::battery: <br>
-Self Rating: :eight:
+Self Rating: :eight: <br>
+[:running:](https://www.fitbit.com/user/3WJZ2S)
 
 ## Stats
- :clock530: <br>
-
+ 
  * Total Exercises: 10
  * Total Sets: 36
  * Total Weight Lifted: 37,460 lbs.
@@ -34,7 +34,7 @@ Self Rating: :eight:
  * Abdominals   :white_check_mark:
  * Cardio       :x:
 
- [Workout Details](http://bodyspace.bodybuilding.com/workouts/viewworkoutlog/brenodamata/56de13ad0cf254b2d6541cd2).
+## [:muscle: Workout Details](http://bodyspace.bodybuilding.com/workouts/viewworkoutlog/brenodamata/56de13ad0cf254b2d6541cd2)
 
 ### Breakdown
 - [:meat_on_bone: Nutrition](#nutrition)
@@ -42,8 +42,8 @@ Self Rating: :eight:
 - [:muscle: Current Body Composition](#current-body-composition)
 - [:heartbeat: Activity](#activity-hr)
 - [:zzz: Sleep](#sleep)
-- [:camera: Progress Pics](#pics)
-- [:notebook: Side Notes](#notes)
+- [:camera: Progress Pics](#progress-pics)
+- [:pencil: Side Notes](#notes)
 
 ---
 
@@ -60,6 +60,8 @@ Self Rating: :eight:
 
 #### Pre-workout:
 :clock4: Protein Shake: 1 1/2 scoops of Hydro Whey, 5mg of Creatine, 1/2 advocato, 1 tps of peanut butter, 1/4 cup of blueberries, 1 strawberry, 1/2 banna with 2% Milk.
+
+#### :clock530: Workout :muscle: :sweat_drops: 
 
 #### Post-worktout:
 :clock7: 1 scoop of Hydro Whey, 5mg of Creatine with 14oz of water. 
@@ -88,10 +90,9 @@ Bodyfat: 16.3%
 <figcaption class="caption">Heart rate graph from Fitbit</figcaption>
 
 ## Sleep
-:zzz: <br>
-TBA
+:zzz: TBA
 
-## Pics
+## Progress Pics
 
 :no_entry_sign:
 
@@ -101,6 +102,7 @@ TBA
 2. Workout longer than it should have been. Double check rest time.
 3. Demanding workout.
 
+[fitbit-profile]: www.fitbit.com/user/3WJZ2S
 [weight]: https://ipfs.pics/ipfs/Qmc2UGFKA21U6oATLpvajBSiNQo7DZcproprrRkbXjFXaL
 [lean-vs-fat]: https://ipfs.pics/ipfs/QmbcPCp9TTKmryfnviNfTyf2TeyFNFRUrxhzwMg8o7TfzQ
 [heart-rate]: https://ipfs.pics/ipfs/Qmceq7u4kqAKyq5dzVchSPYcMJtFHWMJp7wkB6HYHWhS6Q
