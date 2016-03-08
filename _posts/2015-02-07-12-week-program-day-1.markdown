@@ -9,47 +9,97 @@ blog: true
 draft: false
 star: false
 ---
-[:muscle:](http://bodyspace.bodybuilding.com/brenodamata/) <br>
-
-## Day 1:
-
+BodySpace: [:muscle:](http://bodyspace.bodybuilding.com/brenodamata/) <br>
+Fitbit: [:running:](https://www.fitbit.com/user/3WJZ2S) <br>
 Energy Level: :battery::battery::battery: <br>
 Self Rating: :eight: <br>
-[:running:](https://www.fitbit.com/user/3WJZ2S)
 
-## Stats
+## Muscles Worked & Stats
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Roboto, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Roboto, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.tg .tg-lqy6{text-align:right;vertical-align:top}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l" style="font-weight:bold; color:#777">Stats</th>
+    <th class="tg-yw4l"></th>
+    <th class="tg-yw4l"></th>
+    <th class="tg-yw4l"></th>
+    <th class="tg-yw4l"></th>
+    <th class="tg-yw4l" style="font-weight:bold; color:#777">Muscles Worked</th>
+    <th class="tg-yw4l"></th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Total Exercises</td>
+    <td class="tg-yw4l" style="font-weight:bold;">10</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="tg-yw4l" style="font-weight:bold;">Quadriceps</td>
+    <td class="tg-yw4l">:white_check_mark:</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Total Sets</td>
+    <td class="tg-yw4l" style="font-weight:bold;">36</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="tg-yw4l" style="font-weight:bold;">Hamstrings</td>
+    <td class="tg-yw4l">:white_check_mark:</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Total Weight Lifted</td>
+    <td class="tg-yw4l" style="font-weight:bold;">37,460 lbs.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="tg-yw4l" style="font-weight:bold;">Calves</td>
+    <td class="tg-lqy6">:white_check_mark:</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Total Workout Time</td>
+    <td class="tg-yw4l" style="font-weight:bold;">01:29 hr:min</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="tg-yw4l" style="font-weight:bold;">Abdominals</td>
+    <td class="tg-yw4l">:white_check_mark:</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Total Cardio</td>
+    <td class="tg-yw4l" style="font-weight:bold;">00:00 hr:min</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="tg-yw4l" style="font-weight:bold;">Cardio</td>
+    <td class="tg-yw4l">:x:</td>
+  </tr>
+</table>
  
- * Total Exercises: 10
- * Total Sets: 36
- * Total Weight Lifted: 37,460 lbs.
- * Total Workout Time: 01:29 hr:min
- * Total Cardio: 00:00 hr:min
 
+#### [Workout Details](http://bodyspace.bodybuilding.com/workouts/viewworkoutlog/brenodamata/56de13ad0cf254b2d6541cd2) (Exercises, sets, weights and rest times)
 
-## Muscles Worked: 
-
- * Quadriceps   :white_check_mark:
- * Hamstrings   :white_check_mark:
- * Calves       :white_check_mark:
- * Abdominals   :white_check_mark:
- * Cardio       :x:
-
-## [:muscle: Workout Details](http://bodyspace.bodybuilding.com/workouts/viewworkoutlog/brenodamata/56de13ad0cf254b2d6541cd2)
+<div class="breaker"></div>
 
 ### Breakdown
-- [:meat_on_bone: Nutrition](#nutrition)
-- [:pill: Supplementation](#supplementation)
-- [:muscle: Current Body Composition](#current-body-composition)
-- [:heartbeat: Activity](#activity-hr)
-- [:zzz: Sleep](#sleep)
-- [:camera: Progress Pics](#progress-pics)
-- [:pencil: Side Notes](#notes)
+:meat_on_bone: [Nutrition](#nutrition) <br>
+:pill: [Supplementation](#supplementation) <br>
+:muscle: [Current Body Composition](#current-body-composition) <br>
+:heartbeat: [Activity](#activity-hr) <br>
+:zzz: [Sleep](#sleep) <br>
+:camera: [Progress Pics](#progress-pics) <br>
+:thought_balloon: [Workout Feedback](#workout_feedback) <br>
+:pencil: [Side Notes](#side_notes) <br>
 
 ---
 
 ## Nutrition
 
-#### :ocean: Water intake:
+#### :droplet: Water intake:
 ~3 lt 
 
 #### :egg: Breakfast:
@@ -90,18 +140,26 @@ Bodyfat: 16.3%
 <figcaption class="caption">Heart rate graph from Fitbit</figcaption>
 
 ## Sleep
-:zzz: TBA
+:zzz: 
+![Markdowm Image][sleep]
 
 ## Progress Pics
 
 :no_entry_sign:
 
-## Notes
+## Workout Feedback
+
+:hurtrealbad:
+
+
+## Side Notes
 
 1. Switched to Fitbit's Aria scale which has a different method of calculating bodyfat percentage, thus the 6.6% increase.
 2. Workout longer than it should have been. Double check rest time.
 3. Demanding workout.
 
+
 [weight]: https://ipfs.pics/ipfs/Qmc2UGFKA21U6oATLpvajBSiNQo7DZcproprrRkbXjFXaL
 [lean-vs-fat]: https://ipfs.pics/ipfs/QmbcPCp9TTKmryfnviNfTyf2TeyFNFRUrxhzwMg8o7TfzQ
 [heart-rate]: https://ipfs.pics/ipfs/Qmceq7u4kqAKyq5dzVchSPYcMJtFHWMJp7wkB6HYHWhS6Q
+[sleep]: https://ipfs.pics/ipfs/QmR6FVuSVC143f56eLByB4KXyaJXb8Gb66tqAXg9Dd5CoT
