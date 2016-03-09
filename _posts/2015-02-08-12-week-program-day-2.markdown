@@ -6,7 +6,7 @@ tag:
 - gym
 - fitness
 blog: true
-draft: true
+draft: false
 star: false
 ---
 BodySpace: [:muscle:](http://bodyspace.bodybuilding.com/brenodamata/) <br>
