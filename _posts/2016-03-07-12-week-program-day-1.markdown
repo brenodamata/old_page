@@ -3,8 +3,10 @@ title: "12 Week Program Day 1"
 layout: post
 date: 2016-03-07 21:20
 tag:
-- gym
-- fitness
+- 12 week fitness
+- Y3T
+- Legs
+- Abs
 blog: true
 draft: false
 star: false
@@ -146,7 +148,7 @@ Bodyfat: 16.3%
 
 ## Sleep
 :zzz: 
-![Markdowm Image][sleep]
+<!-- ![Markdowm Image][sleep] -->
 
 ## Progress Pics
 

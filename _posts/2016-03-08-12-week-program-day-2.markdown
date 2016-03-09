@@ -3,8 +3,10 @@ title: "12 Week Program Day 2"
 layout: post
 date: 2016-03-08 10:00
 tag:
-- gym
-- fitness
+- 12 week fitness
+- Y3T
+- Chest
+- Triceps
 blog: true
 draft: false
 star: false
@@ -155,7 +157,7 @@ Fat | 89 | 108 | 78
 * 4 ZMA (bed-time)
 
 ## Current Body Composition
-
+:new_moon: Measured after workout **8:13PM** <br>
 Weight: **174.3 lbs** *:small_red_triangle:1.9 lbs*<br> 
 Bodyfat: **16.1%** *:small_red_triangle_down:0.2%*<br> 
 BMI: **25.2** *:small_red_triangle:0.3*
@@ -181,11 +183,12 @@ Peak: **163 BPM** - Fatburn Zone :fire: :sweat_drops:
 ## Sleep
 
 :zzz: 
-<!-- ![Markdowm Image][sleep] -->
+![Markdowm Image][sleep]
 
 ## Progress Pics
 
-:no_entry_sign:
+![Markdowm Image][progress-pic]
+<figcaption class="caption">Dinner and post-workout pictures</figcaption>
 
 ## Workout Feedback
 
@@ -199,19 +202,20 @@ Sholders felt a bit thight.
 
 ## Side Notes
 
-1. Next cardio goals: **100% speed up to 9. HIIT 1m @ 90% (8.1) + 3m @ 60% (5.4)**
-2. Lower carb intake than recomended: 271/426.2 (296) was plenty of fuel for workout.
-3. Lacked a 7g of fiber, surpassed 14g of sugar.
-4. Calves were sore at night. 
+:dart: Next cardio goals: **100% speed up to 9. HIIT 1m @ 90% (8.1) + 3m @ 60% (5.4)** <br>
+:new_moon: Lower carb intake than recomended: 271/426.2 (296) was plenty of fuel for workout. <br>
+:new_moon: Lacked a 7g of fiber, surpassed 14g of sugar. <br>
+:new_moon: Calves a bit sore. 
 
 [weight]: https://ipfs.pics/ipfs/QmXjwEiEEtLj5BSXpFm9CP3hafAWxrELKG5x9TJk7zjGsC
 [heart-rate]: https://ipfs.pics/ipfs/QmX2h4YetrPvAyvZ67caumDV55NmQZyPkVpjZEh1Xgs8rP
 [activity]: https://ipfs.pics/ipfs/QmRrkDgnZXaw4fd9otavX76V9EV3v6AmKopVT5QEiNbdoT
 [calories]: https://ipfs.pics/ipfs/QmUAL4djh5c1GjcYuV1yh2uJjKtpkpGSzzHuwB3XPreVjy
-[sleep]: https:
+[sleep]: https://ipfs.pics/ipfs/QmR6FVuSVC143f56eLByB4KXyaJXb8Gb66tqAXg9Dd5CoT
 [water]: https://ipfs.pics/ipfs/QmVs5DKz7SuUdMTv9gKSKdfhS6sMXvw7aExJYyuKCTJzdU
 [preworkout-protein-shake]: https://ipfs.pics/ipfs/QmPAbh5PA69v9gSrypwtXqZpewbq3Zxgem3J3zeLBz1N6s
 [nutrition-intake]: https://ipfs.pics/ipfs/QmbcJdSToAqQTcMuLZfkBJRgH2YgQc6ZQ3oSJmUiQio6D1
 [nutrition-info]: https://ipfs.pics/ipfs/QmTgGmo9AkkYi7JmjtHFk5AgiEprtkmwbqKhh1VCK2aEWK
 [workout-feedback]: https://ipfs.pics/ipfs/QmRrQNLcUdhGaPcUhYpY1dQFZuxM7VFTYqJtYHgmNQ99o6
 [supper]: https://ipfs.pics/ipfs/QmZchCXxnraCUtGKeQXrxpN6hiBcnUrQTBxdaoxwE1DBjf
+[progress-pic]: https://ipfs.pics/ipfs/Qmer47aBu2eH6eDYtAs22kgR5PJJqMJWwd43Zhq9HAeZuZ

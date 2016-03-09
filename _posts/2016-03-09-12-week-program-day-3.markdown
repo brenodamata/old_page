@@ -1,29 +1,27 @@
 ---
-title: "12 Week Program Day N"
+title: "12 Week Program Day 3"
 layout: post
-date: YYYY-MM-DD HH:MM
+date: 2016-03-09 10:07
 tag:
 - 12 week fitness
-- Type of training
-- Muscle group 1
-- Muscle group 2
+- Y3T
+- Shoulder
+- Abs
 blog: true
 draft: true
 star: false
 ---
-## [Muscle groups, Active rest day] type of training [Y3T, FST7, GVT, HIIT, DTP]
-<!-- ## Chest and Triceps Y3T (Example) -->
+## Shoulders and Abs Y3T
 
 BodySpace: [:muscle:](http://bodyspace.bodybuilding.com/brenodamata/) <br>
 Fitbit: [:running:](https://www.fitbit.com/user/3WJZ2S) <br>
-Energy Level: :battery: out of 4 <br>
+Energy Level: <!-- :battery: out of 4 --> <br>
 Self Rating: :question: :one: - :keycap_ten:<br>
 <!-- Choose one: -->
-Calorie Surplus: **200** = 3000 calories intake - 2800 calories burned <br>
-Calorie Deficit: **-200** = 2060 calories intake - 2800 calories burned <br>
+<!-- Calorie Surplus: **200** = 3000 calories intake - 2800 calories burned <br> -->
+<!-- Calorie Deficit: **-200** = 2060 calories intake - 2800 calories burned <br> -->
 
 ## Muscles Worked & Stats
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -44,16 +42,16 @@ Calorie Deficit: **-200** = 2060 calories intake - 2800 calories burned <br>
   </tr>
   <tr>
     <td class="tg-yw4l">Total Exercises</td>
-    <td class="tg-yw4l" style="font-weight:bold;"><!-- Number of exercises --></td>
+    <td class="tg-yw4l" style="font-weight:bold;">7</td>
     <td></td>
     <td></td>
     <td></td>
-    <td class="tg-yw4l" style="font-weight:bold;"><!-- Primary muscle group worked --></td>
+    <td class="tg-yw4l" style="font-weight:bold;">Shoulders</td>
     <td class="tg-yw4l">:white_check_mark:</td> <!-- Use :white_check_mark: or :x: -->
   </tr>
   <tr>
     <td class="tg-yw4l">Total Sets</td>
-    <td class="tg-yw4l" style="font-weight:bold;"><!-- Number fo total sets --></td>
+    <td class="tg-yw4l" style="font-weight:bold;">23</td>
     <td></td>
     <td></td>
     <td></td>
@@ -117,12 +115,12 @@ Treadmill: **100% speed was X
 
 #### :droplet: Water intake:
 ~N lts.
-![Markdowm Image][water]
-<figcaption class="caption">Water intake tracked with Lifesum</figcaption>
 
-#### :egg: Breakfast: *Calories* **kcal** | *Carbs* **g** | *Protein* **g** | *Fat* **g**
-<!-- Time and what's for breakfast -->
-<!-- Example: :clock930: Three large eggs. 1 slice of whole wheat bread with organic blueberries preserves. 1 Cup of coffee. -->
+<!-- ![Markdowm Image][water]
+<figcaption class="caption">Water intake tracked with Lifesum</figcaption> -->
+
+#### :egg: Breakfast: *Calories* **586** | *Carbs* **53g** | *Protein* **41g** | *Fat* **22g**
+:clock9: Four large eggs. 1 slice of whole wheat bread with organic blueberries preserves. 1 Cup of coffee. <br>
 
 #### :poultry_leg: Lunch: *Calories* **kcal** | *Carbs* **g** | *Protein* **g** | *Fat* **g**
 <!-- Time and what's for lunch -->
@@ -144,11 +142,11 @@ Treadmill: **100% speed was X
 <!-- Time and what's for dinner -->
 <!-- :clock930: 1 scoop of Caisine and 1 Banana with 14oz of water. 1 Apple. -->
 
-![Markdowm Image][nutrition-intake]
-<figcaption class="caption">Nutrition intake graph breakdown with Lifesum</figcaption>
-
+<!-- ![Markdowm Image][nutrition-intake]
+<figcaption class="caption">Nutrition intake graph breakdown with Lifesum</figcaption> -->
+<!-- 
 ![Markdowm Image][nutrition-info]
-<figcaption class="caption">Nutrition information details with Lifesum</figcaption>
+<figcaption class="caption">Nutrition information details with Lifesum</figcaption> -->
 
 #### :dart: Targets:
 
@@ -164,10 +162,10 @@ Fat | q | 108 | 78 | 117
 * 4 ZMA (bed-time)
 
 ## Current Body Composition
-:sunny: :new_moon: Measured *when? (post workout, sunrise) **8:13PM** <br>
-Weight: <!-- **174.3 lbs** *:small_red_triangle:1.9 lbs* --><br> 
-Bodyfat: <!-- **16.1%** *:small_red_triangle_down:0.2%* --><br> 
-BMI: <!-- **25.2** *:small_red_triangle:0.3* -->
+:sunny: Measured first thing in the morning **8:07AM** <br>
+Weight: **169.7 lbs** *:small_red_triangle_down:4.6 lbs*<br> 
+Bodyfat: **14.9%** *:small_red_triangle_down:1.2%*<br> 
+BMI: **24.6** *:small_red_triangle_down:0.6*
 
 ![Markdowm Image][weight]
 <figcaption class="caption">Weight graph from Fitbit</figcaption>
@@ -176,20 +174,21 @@ BMI: <!-- **25.2** *:small_red_triangle:0.3* -->
 
 Peak: <!-- **? BPM** --> - Fatburn Zone :fire: :sweat_drops:
 
-![Markdowm Image][heart-rate]
-<figcaption class="caption">Heart rate graph from Fitbit</figcaption>
+<!-- ![Markdowm Image][heart-rate]
+<figcaption class="caption">Heart rate graph from Fitbit</figcaption> -->
 
-![Markdowm Image][activity]
+<!-- ![Markdowm Image][activity] -->
 
 
 ### :fire: Calories burned
 
-![Markdowm Image][calories]
+<!-- ![Markdowm Image][calories] -->
 
 
 ## Sleep
 
 :zzz: 
+
 ![Markdowm Image][sleep]
 
 ## Progress Pics
@@ -217,18 +216,19 @@ Peak: <!-- **? BPM** --> - Fatburn Zone :fire: :sweat_drops:
 
 ## Side Notes
 
-<!-- :sunny: Day time notes <br>
-:new_moon: Night time notes <br> -->
+:sunny: Woke up slightly full. <br>
+:sunny: Less than 6hrs of sleep but energy is high. <br>
+<!-- :new_moon: Night time notes <br> -->
 
 
 <!-- Links: -->
 
 [example]: https://ipfs.pics/ipfs/Qmc2UGFKA21U6oATLpvajBSiNQo7DZcproprrRkbXjFXaL
-[weight]: h
+[weight]: https://ipfs.pics/ipfs/QmdXg7KhTWfXuXEAoNgbAEwqx5VpUmugLN5vKt1Jz2qdKa
 [activity]: h
 [calories]: h
 [heart-rate]: h
-[sleep]: h
+[sleep]: https://ipfs.pics/ipfs/QmPshgU5XEjGVGpscsMsX6PRvKL3SKnLrHneRxv6SXw55U
 [water]: h
 [progress-pic-1]: h
 [progress-pic-2]: h

@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "12 Week Program Day 3",
+      "tags"     : "12 week fitness, Y3T, Shoulder, and Abs",
+      "url"      : "/12-week-program-day-3/",
+      "date"     : "09 Mar 2016"
+    } ,
+  
+    {
       "title"    : "Utility Belt: My Favorite Tools",
       "tags"     : "apps and productivity",
       "url"      : "/utility-belt-my-favorite-tools/",
@@ -9,14 +16,14 @@
   
     {
       "title"    : "12 Week Program Day 2",
-      "tags"     : "gym and fitness",
+      "tags"     : "12 week fitness, Y3T, Chest, and Triceps",
       "url"      : "/12-week-program-day-2/",
       "date"     : "08 Mar 2016"
     } ,
   
     {
       "title"    : "12 Week Program Day 1",
-      "tags"     : "gym and fitness",
+      "tags"     : "12 week fitness, Y3T, Legs, and Abs",
       "url"      : "/12-week-program-day-1/",
       "date"     : "07 Mar 2016"
     } ,
