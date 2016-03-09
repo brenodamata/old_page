@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-03-08T23:41:29-05:00</updated>
+<updated>2016-03-09T00:12:31-05:00</updated>
 <id>http://localhost:3000/</id>
 <title>Breno da Mata</title>
 <entry>
@@ -58,10 +58,13 @@
 <published>2016-03-08T10:00:00-05:00</published>
 <updated>2016-03-08T10:00:00-05:00</updated>
 <id>http://localhost:3000/12-week-program-day-2</id>
-<content type="html" xml:base="http://localhost:3000/12-week-program-day-2/">&lt;p&gt;BodySpace: &lt;a href=&quot;http://bodyspace.bodybuilding.com/brenodamata/&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:muscle:&quot; alt=&quot;:muscle:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4aa.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+<content type="html" xml:base="http://localhost:3000/12-week-program-day-2/">&lt;h2 id=&quot;chest-and-triceps-y3t&quot;&gt;Chest and Triceps Y3T&lt;/h2&gt;
+
+&lt;p&gt;BodySpace: &lt;a href=&quot;http://bodyspace.bodybuilding.com/brenodamata/&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:muscle:&quot; alt=&quot;:muscle:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4aa.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
 Fitbit: &lt;a href=&quot;https://www.fitbit.com/user/3WJZ2S&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:running:&quot; alt=&quot;:running:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f3c3.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
 Energy Level: &lt;img class=&quot;emoji&quot; title=&quot;:100:&quot; alt=&quot;:100:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4af.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:battery:&quot; alt=&quot;:battery:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f50b.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;br /&gt;
-Self Rating: &lt;img class=&quot;emoji&quot; title=&quot;:nine:&quot; alt=&quot;:nine:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/0039-20e3.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;br /&gt;&lt;/p&gt;
+Self Rating: &lt;img class=&quot;emoji&quot; title=&quot;:nine:&quot; alt=&quot;:nine:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/0039-20e3.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;br /&gt;
+Calorie Surplus: &lt;strong&gt;188&lt;/strong&gt; = 2846 - 2658 &lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;muscles-worked--stats&quot;&gt;Muscles Worked &amp;amp; Stats&lt;/h2&gt;
 
@@ -117,7 +120,7 @@ Self Rating: &lt;img class=&quot;emoji&quot; title=&quot;:nine:&quot; alt=&quot;
     &lt;td&gt;&lt;/td&gt;
     &lt;td&gt;&lt;/td&gt;
     &lt;td class=&quot;tg-yw4l&quot; style=&quot;font-weight:bold;&quot;&gt;Abdominals&lt;/td&gt;
-    &lt;td class=&quot;tg-yw4l&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:white_check_mark:&quot; alt=&quot;:white_check_mark:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/2705.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-yw4l&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:x:&quot; alt=&quot;:x:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/274c.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td class=&quot;tg-yw4l&quot;&gt;Total Cardio&lt;/td&gt;
@@ -283,7 +286,7 @@ BMI: &lt;strong&gt;25.2&lt;/strong&gt; &lt;em&gt;&lt;img class=&quot;emoji&quot;
 </content>
 <category term="gym" />
 <category term="fitness" />
-<summary>BodySpace: :muscle: Fitbit: :running: Energy Level: :100::battery: Self Rating: :nine: </summary>
+<summary>Chest and Triceps Y3T</summary>
 </entry>
 <entry>
 <title>12 Week Program Day 1</title>

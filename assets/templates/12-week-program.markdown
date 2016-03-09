@@ -9,10 +9,16 @@ blog: true
 draft: true
 star: false
 ---
+## [Muscle groups, Active rest day] type of training [Y3T, FST7, GVT, HIIT, DTP]
+<!-- ## Chest and Triceps Y3T (Example) -->
+
 BodySpace: [:muscle:](http://bodyspace.bodybuilding.com/brenodamata/) <br>
 Fitbit: [:running:](https://www.fitbit.com/user/3WJZ2S) <br>
 Energy Level: :battery: out of 4 <br>
 Self Rating: :question: :one: - :ten:<br>
+<!-- Choose one: -->
+Calorie Surplus: **200** = 3000 calories intake - 2800 calories burned <br>
+Calorie Deficit: **-200** = 2060 calories intake - 2800 calories burned <br>
 
 ## Muscles Worked & Stats
 
@@ -82,6 +88,13 @@ Self Rating: :question: :one: - :ten:<br>
 </table>
 
 #### [Workout Details](link from bodyspace here) (Exercises, sets, weights and rest times)
+Tempo: **3010** <br> <!-- [ABCD] A: negative, B: Flex position, C: Force, D: Starting position -->
+Rest: **Time in seconds**<br> 
+Cardio: **HIIT - 2 min warmup, 1 min at H%  + 3 min at I% (4x)**<br> 
+Treadmill: **100% speed was X
+:running: H% = X*0.H
+:walking: I% = X*0.I**
+<!-- H is high intensity | L is low intensity | X is max speed -->
 
 <div class="breaker"></div>
 
@@ -93,6 +106,7 @@ Self Rating: :question: :one: - :ten:<br>
 :zzz: [Sleep](#sleep) <br>
 :camera: [Progress Pics](#progress-pics) <br>
 :thought_balloon: [Workout Feedback](#workout-feedback) <br>
+:headphones: [Workout Playlist](#playlist) <br>
 :pencil: [Side Notes](#side-notes) <br>
 
 ---
@@ -116,8 +130,9 @@ Self Rating: :question: :one: - :ten:<br>
 <!-- Time and pre-workout meal -->
 <!-- :clock4: Protein Shake: 1 1/2 scoops of Hydro Whey, 5mg of Creatine, 1/2 advocato, 1 tps of peanut butter, 1/4 cup of blueberries, 1 strawberry, 1/2 banna with 2% Milk. -->
 
-#### :clock530: Workout :muscle: :sweat_drops: 
+#### Intra-workout :muscle: :sweat_drops: 
 <!-- Time of workout, move it accordingly -->
+<!-- :clock530: 1/2 scoop Pre Jym, 2 scoops of BCAA powder with 14oz of water. -->
 
 #### Post-worktout:
 <!-- Time and post-workout meal -->
@@ -127,6 +142,20 @@ Self Rating: :question: :one: - :ten:<br>
 <!-- Time and what's for dinner -->
 <!-- :clock930: 1 scoop of Caisine and 1 Banana with 14oz of water. 1 Apple. -->
 
+![Markdowm Image][nutrition-intake]
+<figcaption class="caption">Nutrition intake graph breakdown with Lifesum</figcaption>
+
+![Markdowm Image][nutrition-info]
+<figcaption class="caption">Nutrition information details with Lifesum</figcaption>
+
+#### :dart: Targets:
+
+Macro | Consumed | Lifesum Goal | Program Suggestion | Rest Day
+Cals | x | 3202 | 3018 | 2892 
+Carbs | y | 297 | 440 | 263
+Protein | z | 261 | 264 | 350
+Fat | q | 108 | 78 | 117
+
 ## Supplementation
 
 * 3 Multivitamin pills. (breakfast, lunch, dinner)
@@ -134,18 +163,27 @@ Self Rating: :question: :one: - :ten:<br>
 
 ## Current Body Composition
 
-Weight: <!-- 172.4 lbs --> <br>
-Bodyfat: <!-- 16.3% -->
+Weight: <!-- **174.3 lbs** *:small_red_triangle:1.9 lbs* --><br> 
+Bodyfat: <!-- **16.1%** *:small_red_triangle_down:0.2%* --><br> 
+BMI: <!-- **25.2** *:small_red_triangle:0.3* -->
 
 ![Markdowm Image][weight]
 <figcaption class="caption">Weight graph from Fitbit</figcaption>
 
 ## Activity HR
 
-<!-- ? --> BPM - Fatburn Zone :fire:
+Peak: <!-- **? BPM** --> - Fatburn Zone :fire: :sweat_drops:
 
 ![Markdowm Image][heart-rate]
 <figcaption class="caption">Heart rate graph from Fitbit</figcaption>
+
+![Markdowm Image][activity]
+
+
+### :fire: Calories burned
+
+![Markdowm Image][calories]
+
 
 ## Sleep
 
@@ -171,6 +209,10 @@ Bodyfat: <!-- 16.3% -->
 
 <!-- <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Like if you&#39;re working out today! 💪</p>&mdash; Gym Motivation (@GymGoers) <a href="https://twitter.com/GymGoers/status/706213281745268736">March 5, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
+## Playlist
+
+<!-- <iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Abrenodamata%3Aplaylist%3A4FWZVkZmcEgcIZRWCCXAzs" width="300" height="380" frameborder="0" allowtransparency="true"></iframe> -->
+
 ## Side Notes
 
 1. Notes here
@@ -179,10 +221,13 @@ Bodyfat: <!-- 16.3% -->
 <!-- Links: -->
 
 [example]: https://ipfs.pics/ipfs/Qmc2UGFKA21U6oATLpvajBSiNQo7DZcproprrRkbXjFXaL
-[weight]: https:
-[lean-vs-fat]: https:
-[heart-rate]: https:
-[sleep]: https:
-[water]: https:
-[progress-pic-1]: https:
-[progress-pic-2]: https:
+[weight]: h
+[activity]: h
+[calories]: h
+[heart-rate]: h
+[sleep]: h
+[water]: h
+[progress-pic-1]: h
+[progress-pic-2]: h
+[nutrition-intake]: h
+[nutrition-info]: h

@@ -9,10 +9,13 @@ blog: true
 draft: false
 star: false
 ---
+## Chest and Triceps Y3T
+
 BodySpace: [:muscle:](http://bodyspace.bodybuilding.com/brenodamata/) <br>
 Fitbit: [:running:](https://www.fitbit.com/user/3WJZ2S) <br>
 Energy Level: :100::battery: <br>
 Self Rating: :nine: <br>
+Calorie Surplus: **188** = 2846 - 2658 <br>
 
 ## Muscles Worked & Stats
 
@@ -68,7 +71,7 @@ Self Rating: :nine: <br>
     <td></td>
     <td></td>
     <td class="tg-yw4l" style="font-weight:bold;">Abdominals</td>
-    <td class="tg-yw4l">:white_check_mark:</td>
+    <td class="tg-yw4l">:x:</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Total Cardio</td>
