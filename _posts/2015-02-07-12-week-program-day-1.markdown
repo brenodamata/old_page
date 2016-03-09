@@ -9,6 +9,8 @@ blog: true
 draft: false
 star: false
 ---
+## Legs and Abs Y3T
+
 BodySpace: [:muscle:](http://bodyspace.bodybuilding.com/brenodamata/) <br>
 Fitbit: [:running:](https://www.fitbit.com/user/3WJZ2S) <br>
 Energy Level: :battery::battery::battery: <br>
@@ -82,6 +84,9 @@ Self Rating: :eight: <br>
  
 
 #### [Workout Details](http://bodyspace.bodybuilding.com/workouts/viewworkoutlog/brenodamata/56de13ad0cf254b2d6541cd2) (Exercises, sets, weights and rest times)
+Tempo: **3010** <br> 
+Rest: **60-90 seconds**
+
 
 <div class="breaker"></div>
 
