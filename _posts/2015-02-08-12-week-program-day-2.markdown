@@ -11,8 +11,8 @@ star: false
 ---
 BodySpace: [:muscle:](http://bodyspace.bodybuilding.com/brenodamata/) <br>
 Fitbit: [:running:](https://www.fitbit.com/user/3WJZ2S) <br>
-Energy Level: :battery: <br>
-Self Rating: :question: <br>
+Energy Level: :100::battery: <br>
+Self Rating: :nine: <br>
 
 ## Muscles Worked & Stats
 
@@ -54,34 +54,41 @@ Self Rating: :question: <br>
   </tr>
   <tr>
     <td class="tg-yw4l">Total Weight Lifted</td>
-    <td class="tg-yw4l" style="font-weight:bold;">0 lbs.</td>
+    <td class="tg-yw4l" style="font-weight:bold;">16,190 lbs.</td>
     <td></td>
     <td></td>
     <td></td>
-    <td class="tg-yw4l" style="font-weight:bold;">Quadriceps</td>
+    <td class="tg-yw4l" style="font-weight:bold;">Quadriceps (Running)</td>
     <td class="tg-lqy6">:white_check_mark:</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Total Workout Time</td>
-    <td class="tg-yw4l" style="font-weight:bold;">00:00 hr:min</td>
+    <td class="tg-yw4l" style="font-weight:bold;">01:08 hr:min</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="tg-yw4l" style="font-weight:bold;">Abdominals</td>
-    <td class="tg-yw4l">:x:</td>
+    <td class="tg-yw4l">:white_check_mark:</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Total Cardio</td>
-    <td class="tg-yw4l" style="font-weight:bold;">00:00 hr:min</td>
+    <td class="tg-yw4l" style="font-weight:bold;">00:18 hr:min</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="tg-yw4l" style="font-weight:bold;">Cardio</td>
-    <td class="tg-yw4l">:x:</td>
+    <td class="tg-yw4l">:white_check_mark:</td>
   </tr>
 </table>
 
-#### [Workout Details](link here) (Exercises, sets, weights and rest times)
+#### [Workout Details](http://bodyspace.bodybuilding.com/workouts/viewworkoutlog/brenodamata/56df6e930cf2a4e64b935a0b) (Exercises, sets, weights and rest times)
+Tempo: **3010** <br> 
+Rest: **60-90 seconds**<br> 
+Cardio: **HIIT - 2 min warmup, 1 min at 90%  + 3 min at 51% (4x)**<br> 
+Treadmill: **100% speed was 8.4
+:running: 90% = 7.6
+:walking: 51% = 4.3**
+
 
 <div class="breaker"></div>
 
@@ -93,6 +100,7 @@ Self Rating: :question: <br>
 :zzz: [Sleep](#sleep) <br>
 :camera: [Progress Pics](#progress-pics) <br>
 :hurtrealbad: [Workout Feedback](#workout-feedback) <br>
+:headphones: [Workout Playlist](#playlist) <br>
 :pencil: [Side Notes](#side-notes) <br>
 
 ---
@@ -100,7 +108,7 @@ Self Rating: :question: <br>
 ## Nutrition
 
 #### :droplet: Water intake:
-~ lt 
+~3.5 lt 
 ![Markdowm Image][water]
 <figcaption class="caption">Water intake tracked with Lifesum</figcaption>
 
@@ -108,43 +116,69 @@ Self Rating: :question: <br>
 :clock930: Three large eggs. 1 slice of whole wheat bread with organic blueberries preserves. 1 Cup of coffee.
 
 #### :poultry_leg: Lunch:
-:clock1: 
+:clock130: Lasgna, wild rice and ground turkey. 
 
 #### Pre-workout:
-:clock4: Protein Shake: 1 1/2 scoops of Hydro Whey, 5mg of Creatine, 1/2 advocato, 1 tps of peanut butter, 1/4 cup of blueberries, 1 strawberry, 1/2 banna with 2% Milk.
+:clock430: Protein Shake: <br>
 
-#### :clock530: Workout :muscle: :sweat_drops: 
+![Markdowm Image][preworkout-protein-shake]
+
+#### Intra-workout :muscle: :sweat_drops: 
+:clock530: 1/2 scoop Pre Jym, 2 scoops of BCAA powder with 14oz of water.
 
 #### Post-worktout:
-:clock7: 1 scoop of Hydro Whey, 5mg of Creatine with 14oz of water. 
+:clock730: 1 scoop of Hydro Whey, 5mg of Creatine with 14oz of water. 
 
 #### :curry: Dinner:
-:clock930: 1 scoop of Caisine and 1 Banana with 14oz of water. 1 Apple.
+:clock930: 1 chiken thigh with salad. 1 scoop of Casein, 1 banana with 12oz of water.
+
+![Markdowm Image][nutrition-intake]
+<figcaption class="caption">Nutrition intake graph breakdown with Lifesum</figcaption>
+
+![Markdowm Image][nutrition-info]
+<figcaption class="caption">Nutrition information details with Lifesum</figcaption>
+
+#### :dart: Targets:
+
+Macro | Consumed | Lifesum Goal | Program Suggestion
+Cals | 2846 | 3202 | 3018
+Carbs | 271 | 297 | 440
+Protein | 240 | 261 | 264
+Fat | 89 | 108 | 78
 
 ## Supplementation
 
-* 3 Multivitamin pills. (breakfast, -, -)
+* 3 Multivitamin pills. (breakfast, lunch, dinner)
 * 4 ZMA (bed-time)
 
 ## Current Body Composition
 
-Weight: 172.4 lbs <br>
-Bodyfat: 16.3%
+Weight: **174.3 lbs** *:small_red_triangle:1.9 lbs*<br> 
+Bodyfat: **16.1%** *:small_red_triangle_down:0.2%*<br> 
+BMI: **25.2** *:small_red_triangle:0.3*
 
 ![Markdowm Image][weight]
 <figcaption class="caption">Weight graph from Fitbit</figcaption>
 
 ## Activity HR
 
-? BPM - Fatburn Zone :fire:
+Peak: **163 BPM** - Fatburn Zone :fire: :sweat_drops:
 
 ![Markdowm Image][heart-rate]
 <figcaption class="caption">Heart rate graph from Fitbit</figcaption>
 
+![Markdowm Image][activity]
+
+
+### :fire: Calories burned
+
+![Markdowm Image][calories]
+
+
 ## Sleep
 
 :zzz: 
-![Markdowm Image][sleep]
+<!-- ![Markdowm Image][sleep] -->
 
 ## Progress Pics
 
@@ -152,14 +186,29 @@ Bodyfat: 16.3%
 
 ## Workout Feedback
 
-:shipit:
+Sholders felt a bit thight.
+
+<!-- ![Markdowm Image][workout-feedback] -->
+
+## Playlist
+
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Abrenodamata%3Aplaylist%3A4FWZVkZmcEgcIZRWCCXAzs" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 
 ## Side Notes
 
-1. Notes here
+1. Next cardio goals: **100% speed up to 9. HIIT 1m @ 90% (8.1) + 3m @ 60% (5.4)**
+2. Lower carb intake than recomended: 271/426.2 (296) was plenty of fuel for workout.
+3. Lacked a 7g of fiber, surpassed 14g of sugar.
+4. Calves were sore at night. 
 
-[weight]: https://ipfs.pics/ipfs/Qmc2UGFKA21U6oATLpvajBSiNQo7DZcproprrRkbXjFXaL
-[lean-vs-fat]: https://ipfs.pics/ipfs/QmbcPCp9TTKmryfnviNfTyf2TeyFNFRUrxhzwMg8o7TfzQ
-[heart-rate]: https://ipfs.pics/ipfs/Qmceq7u4kqAKyq5dzVchSPYcMJtFHWMJp7wkB6HYHWhS6Q
-[sleep]: https://ipfs.pics/ipfs/QmR6FVuSVC143f56eLByB4KXyaJXb8Gb66tqAXg9Dd5CoT
-[water]: https://ipfs.pics/ipfs/Qmceq7u4kqAKyq5dzVchSPYcMJtFHWMJp7wkB6HYHWhS6Q
+[weight]: https://ipfs.pics/ipfs/QmXjwEiEEtLj5BSXpFm9CP3hafAWxrELKG5x9TJk7zjGsC
+[heart-rate]: https://ipfs.pics/ipfs/QmX2h4YetrPvAyvZ67caumDV55NmQZyPkVpjZEh1Xgs8rP
+[activity]: https://ipfs.pics/ipfs/QmRrkDgnZXaw4fd9otavX76V9EV3v6AmKopVT5QEiNbdoT
+[calories]: https://ipfs.pics/ipfs/QmUAL4djh5c1GjcYuV1yh2uJjKtpkpGSzzHuwB3XPreVjy
+[sleep]: https:
+[water]: https://ipfs.pics/ipfs/QmVs5DKz7SuUdMTv9gKSKdfhS6sMXvw7aExJYyuKCTJzdU
+[preworkout-protein-shake]: https://ipfs.pics/ipfs/QmPAbh5PA69v9gSrypwtXqZpewbq3Zxgem3J3zeLBz1N6s
+[nutrition-intake]: https://ipfs.pics/ipfs/QmbcJdSToAqQTcMuLZfkBJRgH2YgQc6ZQ3oSJmUiQio6D1
+[nutrition-info]: https://ipfs.pics/ipfs/QmTgGmo9AkkYi7JmjtHFk5AgiEprtkmwbqKhh1VCK2aEWK
+[workout-feedback]: https://ipfs.pics/ipfs/QmRrQNLcUdhGaPcUhYpY1dQFZuxM7VFTYqJtYHgmNQ99o6
+[supper]: https://ipfs.pics/ipfs/QmZchCXxnraCUtGKeQXrxpN6hiBcnUrQTBxdaoxwE1DBjf
