@@ -1,26 +1,25 @@
 ---
-title: "12 Week Program Day N"
+title: "12 Week Program Day 4"
 layout: post
-date: 2016-MM-DD HH:MM
+date: 2016-03-10 10:28
 tag:
 - 12 week fitness
 - Type of training
-- Muscle group 1
-- Muscle group 2
+- Back
+- Lats
 blog: true
 draft: true
 star: false
 ---
-## [Muscle groups, Active rest day] type of training [Y3T, FST7, GVT, HIIT, DTP]
-<!-- ## Chest and Triceps Y3T (Example) -->
+## Back and Lats Y3T 
 
 BodySpace: [:muscle:](http://bodyspace.bodybuilding.com/brenodamata/) <br>
 Fitbit: [:running:](https://www.fitbit.com/user/3WJZ2S) <br>
 Energy Level: :battery: out of 4 <br>
 Self Rating: :question: :one: - :keycap_ten:<br>
 <!-- Choose one: -->
-Calorie Surplus: **200** = 3000 calories intake - 2800 calories burned <br>
-Calorie Deficit: **-200** = 2060 calories intake - 2800 calories burned <br>
+<!-- Calorie Surplus: **200** = 3000 calories intake - 2800 calories burned <br>
+Calorie Deficit: **-200** = 2060 calories intake - 2800 calories burned <br> -->
 
 ## Muscles Worked & Stats
 
@@ -117,12 +116,12 @@ Treadmill: **100% speed was X
 
 #### :droplet: Water intake:
 ~N lts.
-![Markdowm Image][water]
-<figcaption class="caption">Water intake tracked with Lifesum</figcaption>
 
-#### :egg: Breakfast: *Calories* **kcal** | *Carbs* **g** | *Protein* **g** | *Fat* **g**
-<!-- Time and what's for breakfast -->
-<!-- Example: :clock930: Three large eggs. 1 slice of whole wheat bread with organic blueberries preserves. 1 Cup of coffee. -->
+<!-- ![Markdowm Image][water]
+<figcaption class="caption">Water intake tracked with Lifesum</figcaption> -->
+
+#### :egg: Breakfast: *Calories* **724** | *Carbs* **81g** | *Protein* **52g** | *Fat* **21g**
+:clock930: A cup of diced pineapple, 50g of mint, 1 tbs of organic chia seeds, 1/2 scoop of Hydro Whey, 1 leaf of kale, 1/2 of lemon with 12oz of water. Three large eggs. 2 slices of whole wheat bread with organic blueberries preserves. 1 Cup of coffee with organic brown sugar.
 
 #### :poultry_leg: Lunch: *Calories* **kcal** | *Carbs* **g** | *Protein* **g** | *Fat* **g**
 <!-- Time and what's for lunch -->
@@ -144,11 +143,11 @@ Treadmill: **100% speed was X
 <!-- Time and what's for dinner -->
 <!-- :clock930: 1 scoop of Caisine and 1 Banana with 14oz of water. 1 Apple. -->
 
-![Markdowm Image][nutrition-intake]
+<!-- ![Markdowm Image][nutrition-intake]
 <figcaption class="caption">Nutrition intake graph breakdown with Lifesum</figcaption>
 
 ![Markdowm Image][nutrition-info]
-<figcaption class="caption">Nutrition information details with Lifesum</figcaption>
+<figcaption class="caption">Nutrition information details with Lifesum</figcaption> -->
 
 #### :dart: Targets:
 
@@ -165,9 +164,9 @@ Fat | q | 108 | 78 | 117
 
 ## Current Body Composition
 :sunny: :new_moon: Measured *when? (post workout, sunrise) **8:13PM** <br>
-Weight: <!-- **174.3 lbs** *:small_red_triangle:1.9 lbs* --><br> 
-Bodyfat: <!-- **16.1%** *:small_red_triangle_down:0.2%* --><br> 
-BMI: <!-- **25.2** *:small_red_triangle:0.3* -->
+Weight: **168.6 lbs** *:small_red_triangle_down:1.1 lbs*<br> 
+Bodyfat: **15.7%** *:small_red_triangle:0.8%*<br> 
+BMI: **24.4** *:small_red_triangle_down:0.2*
 
 ![Markdowm Image][weight]
 <figcaption class="caption">Weight graph from Fitbit</figcaption>
@@ -217,19 +216,19 @@ Peak: <!-- **? BPM** --> - Fatburn Zone :fire: :sweat_drops:
 
 ## Side Notes
 
-<!-- :sunny: Day time notes <br>
-:new_moon: Night time notes <br> -->
+:sunny: Underslept, 2 nights in a row. <br>
+<!-- :new_moon: Night time notes <br> -->
 
 <!-- :smoking: :fist: -->
 
 <!-- Links: -->
 
 [example]: https://ipfs.pics/ipfs/Qmc2UGFKA21U6oATLpvajBSiNQo7DZcproprrRkbXjFXaL
-[weight]: h
-[sleep]: h
+[weight]: https://ipfs.pics/ipfs/QmW3FgNGeD46kHEryFUw1ftEUqRw254WkKxYeKaouz7DJA
 [activity]: h
 [calories]: h
 [heart-rate]: h
+[sleep]: https://ipfs.pics/ipfs/QmW3FgNGeD46kHEryFUw1ftEUqRw254WkKxYeKaouz7DJA
 [water]: h
 [progress-pic-1]: h
 [progress-pic-2]: h
