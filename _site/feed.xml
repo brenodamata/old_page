@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-03-09T10:43:52-05:00</updated>
+<updated>2016-03-10T00:24:13-05:00</updated>
 <id>http://localhost:3000/</id>
 <title>Breno da Mata</title>
 <entry>
@@ -16,11 +16,9 @@
 
 &lt;p&gt;BodySpace: &lt;a href=&quot;http://bodyspace.bodybuilding.com/brenodamata/&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:muscle:&quot; alt=&quot;:muscle:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4aa.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
 Fitbit: &lt;a href=&quot;https://www.fitbit.com/user/3WJZ2S&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:running:&quot; alt=&quot;:running:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f3c3.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
-Energy Level: &lt;!-- &lt;img class=&#39;emoji&#39; title=&#39;:battery:&#39; alt=&#39;:battery:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f50b.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; out of 4 --&gt; &lt;br /&gt;
-Self Rating: &lt;img class=&quot;emoji&quot; title=&quot;:question:&quot; alt=&quot;:question:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/2753.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;img class=&quot;emoji&quot; title=&quot;:one:&quot; alt=&quot;:one:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/0031-20e3.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; - &lt;img class=&quot;emoji&quot; title=&quot;:keycap_ten:&quot; alt=&quot;:keycap_ten:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f51f.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;br /&gt;
-&lt;!-- Choose one: --&gt;
-&lt;!-- Calorie Surplus: **200** = 3000 calories intake - 2800 calories burned &lt;br&gt; --&gt;
-&lt;!-- Calorie Deficit: **-200** = 2060 calories intake - 2800 calories burned &lt;br&gt; --&gt;&lt;/p&gt;
+Energy Level: &lt;img class=&quot;emoji&quot; title=&quot;:battery:&quot; alt=&quot;:battery:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f50b.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:battery:&quot; alt=&quot;:battery:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f50b.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:battery:&quot; alt=&quot;:battery:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f50b.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;br /&gt;
+Self Rating: &lt;img class=&quot;emoji&quot; title=&quot;:seven:&quot; alt=&quot;:seven:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/0037-20e3.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;br /&gt;
+Calorie Deficit: &lt;strong&gt;-122&lt;/strong&gt; = 2450 calories intake - 2572 calories burned &lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;muscles-worked--stats&quot;&gt;Muscles Worked &amp;amp; Stats&lt;/h2&gt;
 
@@ -49,7 +47,7 @@ Self Rating: &lt;img class=&quot;emoji&quot; title=&quot;:question:&quot; alt=&q
     &lt;td&gt;&lt;/td&gt;
     &lt;td&gt;&lt;/td&gt;
     &lt;td class=&quot;tg-yw4l&quot; style=&quot;font-weight:bold;&quot;&gt;Shoulders&lt;/td&gt;
-    &lt;td class=&quot;tg-yw4l&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:white_check_mark:&quot; alt=&quot;:white_check_mark:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/2705.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/td&gt; &lt;!-- Use &lt;img class=&#39;emoji&#39; title=&#39;:white_check_mark:&#39; alt=&#39;:white_check_mark:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/2705.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; or &lt;img class=&#39;emoji&#39; title=&#39;:x:&#39; alt=&#39;:x:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/274c.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; --&gt;
+    &lt;td class=&quot;tg-yw4l&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:white_check_mark:&quot; alt=&quot;:white_check_mark:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/2705.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/td&gt; 
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td class=&quot;tg-yw4l&quot;&gt;Total Sets&lt;/td&gt;
@@ -57,46 +55,45 @@ Self Rating: &lt;img class=&quot;emoji&quot; title=&quot;:question:&quot; alt=&q
     &lt;td&gt;&lt;/td&gt;
     &lt;td&gt;&lt;/td&gt;
     &lt;td&gt;&lt;/td&gt;
-    &lt;td class=&quot;tg-yw4l&quot; style=&quot;font-weight:bold;&quot;&gt;&lt;!-- Secondary muscle group worked --&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-yw4l&quot; style=&quot;font-weight:bold;&quot;&gt;Abdominals&lt;/td&gt;
     &lt;td class=&quot;tg-yw4l&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:white_check_mark:&quot; alt=&quot;:white_check_mark:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/2705.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td class=&quot;tg-yw4l&quot;&gt;Total Weight Lifted&lt;/td&gt;
-    &lt;td class=&quot;tg-yw4l&quot; style=&quot;font-weight:bold;&quot;&gt;&lt;!-- Y lbs. --&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-yw4l&quot; style=&quot;font-weight:bold;&quot;&gt;7,117 lbs.&lt;/td&gt;
     &lt;td&gt;&lt;/td&gt;
     &lt;td&gt;&lt;/td&gt;
     &lt;td&gt;&lt;/td&gt;
     &lt;td class=&quot;tg-yw4l&quot; style=&quot;font-weight:bold;&quot;&gt;&lt;!-- Secondary muscle group worked --&gt;&lt;/td&gt;
-    &lt;td class=&quot;tg-lqy6&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:white_check_mark:&quot; alt=&quot;:white_check_mark:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/2705.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-lqy6&quot;&gt;&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td class=&quot;tg-yw4l&quot;&gt;Total Workout Time&lt;/td&gt;
-    &lt;td class=&quot;tg-yw4l&quot; style=&quot;font-weight:bold;&quot;&gt;00:00 hr:min&lt;/td&gt;
+    &lt;td class=&quot;tg-yw4l&quot; style=&quot;font-weight:bold;&quot;&gt;01:18 hr:min&lt;/td&gt;
     &lt;td&gt;&lt;/td&gt;
     &lt;td&gt;&lt;/td&gt;
     &lt;td&gt;&lt;/td&gt;
-    &lt;td class=&quot;tg-yw4l&quot; style=&quot;font-weight:bold;&quot;&gt;Abdominals&lt;/td&gt;
-    &lt;td class=&quot;tg-yw4l&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:x:&quot; alt=&quot;:x:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/274c.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-yw4l&quot; style=&quot;font-weight:bold;&quot;&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-yw4l&quot;&gt;&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td class=&quot;tg-yw4l&quot;&gt;Total Cardio&lt;/td&gt;
-    &lt;td class=&quot;tg-yw4l&quot; style=&quot;font-weight:bold;&quot;&gt;00:00 hr:min&lt;/td&gt;
+    &lt;td class=&quot;tg-yw4l&quot; style=&quot;font-weight:bold;&quot;&gt;00:15 hr:min&lt;/td&gt;
     &lt;td&gt;&lt;/td&gt;
     &lt;td&gt;&lt;/td&gt;
     &lt;td&gt;&lt;/td&gt;
     &lt;td class=&quot;tg-yw4l&quot; style=&quot;font-weight:bold;&quot;&gt;Cardio&lt;/td&gt;
-    &lt;td class=&quot;tg-yw4l&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:x:&quot; alt=&quot;:x:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/274c.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-yw4l&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:white_check_mark:&quot; alt=&quot;:white_check_mark:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/2705.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
 
-&lt;h4 id=&quot;workout-detailslink-from-bodyspace-here-exercises-sets-weights-and-rest-times&quot;&gt;&lt;a href=&quot;link from bodyspace here&quot;&gt;Workout Details&lt;/a&gt; (Exercises, sets, weights and rest times)&lt;/h4&gt;
-&lt;p&gt;Tempo: &lt;strong&gt;3010&lt;/strong&gt; &lt;br /&gt; &lt;!-- [ABCD] A: negative, B: Flex position, C: Force, D: Starting position --&gt;
-Rest: &lt;strong&gt;Time in seconds&lt;/strong&gt;&lt;br /&gt; 
-Cardio: &lt;strong&gt;HIIT - 2 min warmup, 1 min at H%  + 3 min at I% (4x)&lt;/strong&gt;&lt;br /&gt; 
-Treadmill: &lt;strong&gt;100% speed was X
-&lt;img class=&quot;emoji&quot; title=&quot;:running:&quot; alt=&quot;:running:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f3c3.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; H% = X&lt;em&gt;0.H
-&lt;img class=&quot;emoji&quot; title=&quot;:walking:&quot; alt=&quot;:walking:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f6b6.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; I% = X&lt;/em&gt;0.I&lt;/strong&gt;
-&lt;!-- H is high intensity | L is low intensity | X is max speed --&gt;&lt;/p&gt;
+&lt;h4 id=&quot;workout-detailshttpmybodybuildingcomworkoutstrack-overview56e0bac80cf224c625970c3bedit5exerciseid262-exercises-sets-weights-and-rest-times&quot;&gt;&lt;a href=&quot;http://my.bodybuilding.com/workouts/track-overview/56e0bac80cf224c625970c3b?edit=5&amp;amp;exerciseid=262&quot;&gt;Workout Details&lt;/a&gt; (Exercises, sets, weights and rest times)&lt;/h4&gt;
+&lt;p&gt;Tempo: &lt;strong&gt;3010&lt;/strong&gt; &lt;br /&gt; 
+Rest: &lt;strong&gt;60-90 seconds&lt;/strong&gt;&lt;br /&gt; 
+Cardio: &lt;strong&gt;HIIT - 2 min warmup, 30 seconds at 90%  + 1 min at 50% (4x)&lt;/strong&gt;&lt;br /&gt; 
+&lt;img class=&quot;emoji&quot; title=&quot;:bicyclist:&quot; alt=&quot;:bicyclist:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f6b4.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Stationary Bike: &lt;strong&gt;100% speed was 20&lt;/strong&gt;&lt;br /&gt;
+High Intensity: &lt;strong&gt;90% = 18&lt;/strong&gt;&lt;br /&gt;
+Interval: &lt;strong&gt;50% = 10&lt;/strong&gt;&lt;/p&gt;
 
 &lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
 
@@ -116,39 +113,34 @@ Treadmill: &lt;strong&gt;100% speed was X
 &lt;h2 id=&quot;nutrition&quot;&gt;Nutrition&lt;/h2&gt;
 
 &lt;h4 id=&quot;img-classemoji-titledroplet-altdroplet-srchttpsassetsgithubcomimagesiconsemojiunicode1f4a7png-height20-width20-alignabsmiddle--water-intake&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:droplet:&quot; alt=&quot;:droplet:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4a7.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Water intake:&lt;/h4&gt;
-&lt;p&gt;~N lts.&lt;/p&gt;
+&lt;p&gt;~3 lts.&lt;/p&gt;
 
-&lt;!-- ![Markdowm Image][water]
-&lt;figcaption class=&quot;caption&quot;&gt;Water intake tracked with Lifesum&lt;/figcaption&gt; --&gt;
+&lt;p&gt;&lt;img src=&quot;https://ipfs.pics/ipfs/QmU2TK5uDurrzPywRcQf9Kx9dY3ghaabABwoDMmK2Syie1&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Water intake tracked with Lifesum&lt;/figcaption&gt;
 
 &lt;h4 id=&quot;img-classemoji-titleegg-altegg-srchttpsassetsgithubcomimagesiconsemojiunicode1f373png-height20-width20-alignabsmiddle--breakfast-calories-586--carbs-53g--protein-41g--fat-22g&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:egg:&quot; alt=&quot;:egg:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f373.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Breakfast: &lt;em&gt;Calories&lt;/em&gt; &lt;strong&gt;586&lt;/strong&gt; | &lt;em&gt;Carbs&lt;/em&gt; &lt;strong&gt;53g&lt;/strong&gt; | &lt;em&gt;Protein&lt;/em&gt; &lt;strong&gt;41g&lt;/strong&gt; | &lt;em&gt;Fat&lt;/em&gt; &lt;strong&gt;22g&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;img class=&quot;emoji&quot; title=&quot;:clock9:&quot; alt=&quot;:clock9:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f558.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Four large eggs. 1 slice of whole wheat bread with organic blueberries preserves. 1 Cup of coffee. &lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;img-classemoji-titlepoultryleg-altpoultryleg-srchttpsassetsgithubcomimagesiconsemojiunicode1f357png-height20-width20-alignabsmiddle--lunch-calories-kcal--carbs-g--protein-g--fat-g&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:poultry_leg:&quot; alt=&quot;:poultry_leg:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f357.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Lunch: &lt;em&gt;Calories&lt;/em&gt; &lt;strong&gt;kcal&lt;/strong&gt; | &lt;em&gt;Carbs&lt;/em&gt; &lt;strong&gt;g&lt;/strong&gt; | &lt;em&gt;Protein&lt;/em&gt; &lt;strong&gt;g&lt;/strong&gt; | &lt;em&gt;Fat&lt;/em&gt; &lt;strong&gt;g&lt;/strong&gt;&lt;/h4&gt;
-&lt;!-- Time and what&#39;s for lunch --&gt;
-&lt;!-- Example: &lt;img class=&#39;emoji&#39; title=&#39;:clock1:&#39; alt=&#39;:clock1:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f550.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; Chiken breasts and brown rice --&gt;
+&lt;h4 id=&quot;img-classemoji-titlepoultryleg-altpoultryleg-srchttpsassetsgithubcomimagesiconsemojiunicode1f357png-height20-width20-alignabsmiddle--lunch-calories-750--carbs-88g--protein-77g--fat-14g&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:poultry_leg:&quot; alt=&quot;:poultry_leg:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f357.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Lunch: &lt;em&gt;Calories&lt;/em&gt; &lt;strong&gt;750&lt;/strong&gt; | &lt;em&gt;Carbs&lt;/em&gt; &lt;strong&gt;88g&lt;/strong&gt; | &lt;em&gt;Protein&lt;/em&gt; &lt;strong&gt;77g&lt;/strong&gt; | &lt;em&gt;Fat&lt;/em&gt; &lt;strong&gt;14g&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;img class=&quot;emoji&quot; title=&quot;:clock1:&quot; alt=&quot;:clock1:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f550.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; 3 Chiken thighs, 2 portions of wild rice and salad.&lt;/p&gt;
 
-&lt;h4 id=&quot;pre-workout-calories-kcal--carbs-g--protein-g--fat-g&quot;&gt;Pre-workout: &lt;em&gt;Calories&lt;/em&gt; &lt;strong&gt;kcal&lt;/strong&gt; | &lt;em&gt;Carbs&lt;/em&gt; &lt;strong&gt;g&lt;/strong&gt; | &lt;em&gt;Protein&lt;/em&gt; &lt;strong&gt;g&lt;/strong&gt; | &lt;em&gt;Fat&lt;/em&gt; &lt;strong&gt;g&lt;/strong&gt;&lt;/h4&gt;
-&lt;!-- Time and pre-workout meal --&gt;
-&lt;!-- &lt;img class=&#39;emoji&#39; title=&#39;:clock4:&#39; alt=&#39;:clock4:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f553.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; Protein Shake: 1 1/2 scoops of Hydro Whey, 5mg of Creatine, 1/2 advocato, 1 tps of peanut butter, 1/4 cup of blueberries, 1 strawberry, 1/2 banna with 2% Milk. --&gt;
+&lt;h4 id=&quot;pre-workout-calories-642--carbs-50g--protein-58g--fat-22g&quot;&gt;Pre-workout: &lt;em&gt;Calories&lt;/em&gt; &lt;strong&gt;642&lt;/strong&gt; | &lt;em&gt;Carbs&lt;/em&gt; &lt;strong&gt;50g&lt;/strong&gt; | &lt;em&gt;Protein&lt;/em&gt; &lt;strong&gt;58g&lt;/strong&gt; | &lt;em&gt;Fat&lt;/em&gt; &lt;strong&gt;22g&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;img class=&quot;emoji&quot; title=&quot;:clock430:&quot; alt=&quot;:clock430:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f55f.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Protein Shake: 1.4 scoops of Hydro Whey, 5mg of Creatine, 1/4 of large advocato, 1/4 cup of blueberries, 1 strawberry, 1/2 banna, 1/2 scoop of Pre Jym with 400ml of 2% Milk.&lt;/p&gt;
 
 &lt;h4 id=&quot;intra-workout-img-classemoji-titlemuscle-altmuscle-srchttpsassetsgithubcomimagesiconsemojiunicode1f4aapng-height20-width20-alignabsmiddle--img-classemoji-titlesweatdrops-altsweatdrops-srchttpsassetsgithubcomimagesiconsemojiunicode1f4a6png-height20-width20-alignabsmiddle-&quot;&gt;Intra-workout &lt;img class=&quot;emoji&quot; title=&quot;:muscle:&quot; alt=&quot;:muscle:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4aa.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;img class=&quot;emoji&quot; title=&quot;:sweat_drops:&quot; alt=&quot;:sweat_drops:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4a6.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/h4&gt;
-&lt;!-- Time of workout, move it accordingly --&gt;
-&lt;!-- &lt;img class=&#39;emoji&#39; title=&#39;:clock530:&#39; alt=&#39;:clock530:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f560.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; 1/2 scoop Pre Jym, 2 scoops of BCAA powder with 14oz of water. --&gt;
+&lt;p&gt;&lt;img class=&quot;emoji&quot; title=&quot;:clock530:&quot; alt=&quot;:clock530:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f560.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; 1/2 scoop Pre Jym, 2 scoops of BCAA powder with 14oz of water.&lt;/p&gt;
 
-&lt;h4 id=&quot;post-worktout-calories-kcal--carbs-g--protein-g--fat-g&quot;&gt;Post-worktout: &lt;em&gt;Calories&lt;/em&gt; &lt;strong&gt;kcal&lt;/strong&gt; | &lt;em&gt;Carbs&lt;/em&gt; &lt;strong&gt;g&lt;/strong&gt; | &lt;em&gt;Protein&lt;/em&gt; &lt;strong&gt;g&lt;/strong&gt; | &lt;em&gt;Fat&lt;/em&gt; &lt;strong&gt;g&lt;/strong&gt;&lt;/h4&gt;
-&lt;!-- Time and post-workout meal --&gt;
-&lt;!-- &lt;img class=&#39;emoji&#39; title=&#39;:clock7:&#39; alt=&#39;:clock7:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f556.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; 1 scoop of Hydro Whey, 5mg of Creatine with 14oz of water.  --&gt;
+&lt;h4 id=&quot;post-worktout-calories-154--carbs-2g--protein-32g--fat-1g&quot;&gt;Post-worktout: &lt;em&gt;Calories&lt;/em&gt; &lt;strong&gt;154&lt;/strong&gt; | &lt;em&gt;Carbs&lt;/em&gt; &lt;strong&gt;2g&lt;/strong&gt; | &lt;em&gt;Protein&lt;/em&gt; &lt;strong&gt;32g&lt;/strong&gt; | &lt;em&gt;Fat&lt;/em&gt; &lt;strong&gt;1g&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;img class=&quot;emoji&quot; title=&quot;:clock7:&quot; alt=&quot;:clock7:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f556.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; 1 scoop of Hydro Whey, 5mg of Creatine with 14oz of water.&lt;/p&gt;
 
-&lt;h4 id=&quot;img-classemoji-titlecurry-altcurry-srchttpsassetsgithubcomimagesiconsemojiunicode1f35bpng-height20-width20-alignabsmiddle--dinner-calories-kcal--carbs-g--protein-g--fat-g&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:curry:&quot; alt=&quot;:curry:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f35b.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Dinner: &lt;em&gt;Calories&lt;/em&gt; &lt;strong&gt;kcal&lt;/strong&gt; | &lt;em&gt;Carbs&lt;/em&gt; &lt;strong&gt;g&lt;/strong&gt; | &lt;em&gt;Protein&lt;/em&gt; &lt;strong&gt;g&lt;/strong&gt; | &lt;em&gt;Fat&lt;/em&gt; &lt;strong&gt;g&lt;/strong&gt;&lt;/h4&gt;
-&lt;!-- Time and what&#39;s for dinner --&gt;
-&lt;!-- &lt;img class=&#39;emoji&#39; title=&#39;:clock930:&#39; alt=&#39;:clock930:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f564.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; 1 scoop of Caisine and 1 Banana with 14oz of water. 1 Apple. --&gt;
+&lt;h4 id=&quot;img-classemoji-titlecurry-altcurry-srchttpsassetsgithubcomimagesiconsemojiunicode1f35bpng-height20-width20-alignabsmiddle--dinner-calories-291--carbs-33g--protein-37g--fat-1g&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:curry:&quot; alt=&quot;:curry:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f35b.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Dinner: &lt;em&gt;Calories&lt;/em&gt; &lt;strong&gt;291&lt;/strong&gt; | &lt;em&gt;Carbs&lt;/em&gt; &lt;strong&gt;33g&lt;/strong&gt; | &lt;em&gt;Protein&lt;/em&gt; &lt;strong&gt;37g&lt;/strong&gt; | &lt;em&gt;Fat&lt;/em&gt; &lt;strong&gt;1g&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;img class=&quot;emoji&quot; title=&quot;:clock1130:&quot; alt=&quot;:clock1130:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f566.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; 1.5 scoop of Caisine and 1 Banana with 14oz of water.&lt;/p&gt;
 
-&lt;!-- ![Markdowm Image][nutrition-intake]
-&lt;figcaption class=&quot;caption&quot;&gt;Nutrition intake graph breakdown with Lifesum&lt;/figcaption&gt; --&gt;
-&lt;!-- 
-![Markdowm Image][nutrition-info]
-&lt;figcaption class=&quot;caption&quot;&gt;Nutrition information details with Lifesum&lt;/figcaption&gt; --&gt;
+&lt;p&gt;&lt;img src=&quot;https://ipfs.pics/ipfs/QmVtWDrQji7NZTv8VzbuPSWC6CuruH97RV2jce2qrbDg8B&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Nutrition intake graph breakdown with Lifesum&lt;/figcaption&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://ipfs.pics/ipfs/QmegdTAxvbjbGV4GvcPMLbcUNpvjYDBHLEcFcvvcZFk2Kq&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Nutrition information details with Lifesum&lt;/figcaption&gt;
 
 &lt;h4 id=&quot;img-classemoji-titledart-altdart-srchttpsassetsgithubcomimagesiconsemojiunicode1f3afpng-height20-width20-alignabsmiddle--targets&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:dart:&quot; alt=&quot;:dart:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f3af.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Targets:&lt;/h4&gt;
 
@@ -163,28 +155,28 @@ Treadmill: &lt;strong&gt;100% speed was X
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Cals&lt;/td&gt;
-      &lt;td&gt;x&lt;/td&gt;
+      &lt;td&gt;2450&lt;/td&gt;
       &lt;td&gt;3202&lt;/td&gt;
       &lt;td&gt;3018&lt;/td&gt;
       &lt;td&gt;2892&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Carbs&lt;/td&gt;
-      &lt;td&gt;y&lt;/td&gt;
+      &lt;td&gt;234&lt;/td&gt;
       &lt;td&gt;297&lt;/td&gt;
       &lt;td&gt;440&lt;/td&gt;
       &lt;td&gt;263&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Protein&lt;/td&gt;
-      &lt;td&gt;z&lt;/td&gt;
+      &lt;td&gt;246&lt;/td&gt;
       &lt;td&gt;261&lt;/td&gt;
       &lt;td&gt;264&lt;/td&gt;
       &lt;td&gt;350&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Fat&lt;/td&gt;
-      &lt;td&gt;q&lt;/td&gt;
+      &lt;td&gt;60&lt;/td&gt;
       &lt;td&gt;108&lt;/td&gt;
       &lt;td&gt;78&lt;/td&gt;
       &lt;td&gt;117&lt;/td&gt;
@@ -208,18 +200,23 @@ BMI: &lt;strong&gt;24.6&lt;/strong&gt; &lt;em&gt;&lt;img class=&quot;emoji&quot;
 &lt;p&gt;&lt;img src=&quot;https://ipfs.pics/ipfs/QmdXg7KhTWfXuXEAoNgbAEwqx5VpUmugLN5vKt1Jz2qdKa&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption class=&quot;caption&quot;&gt;Weight graph from Fitbit&lt;/figcaption&gt;
 
+&lt;h4 id=&quot;img-classemoji-titlenewmoon-altnewmoon-srchttpsassetsgithubcomimagesiconsemojiunicode1f311png-height20-width20-alignabsmiddle--night-time-measure&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:new_moon:&quot; alt=&quot;:new_moon:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f311.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Night time measure&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://ipfs.pics/ipfs/QmPGHZmKYbE6Yhqt36EKrzxVucQtEv5TyQUicx6FEZKn86&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Heavier but leaner @ night&lt;/figcaption&gt;
+
 &lt;h2 id=&quot;activity-hr&quot;&gt;Activity HR&lt;/h2&gt;
 
-&lt;p&gt;Peak: &lt;!-- **? BPM** --&gt; - Fatburn Zone &lt;img class=&quot;emoji&quot; title=&quot;:fire:&quot; alt=&quot;:fire:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f525.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;img class=&quot;emoji&quot; title=&quot;:sweat_drops:&quot; alt=&quot;:sweat_drops:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4a6.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Peak: &lt;strong&gt;150 BPM&lt;/strong&gt; - Cardio Zone &lt;img class=&quot;emoji&quot; title=&quot;:fire:&quot; alt=&quot;:fire:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f525.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;img class=&quot;emoji&quot; title=&quot;:sweat_drops:&quot; alt=&quot;:sweat_drops:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4a6.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
 
-&lt;!-- ![Markdowm Image][heart-rate]
-&lt;figcaption class=&quot;caption&quot;&gt;Heart rate graph from Fitbit&lt;/figcaption&gt; --&gt;
+&lt;p&gt;&lt;img src=&quot;https://ipfs.pics/ipfs/QmQvPJXiQmPbZ4qVWPtny2wco6VFHDWAQA3vKvXVLMom6g&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Heart rate graph from Fitbit&lt;/figcaption&gt;
 
-&lt;!-- ![Markdowm Image][activity] --&gt;
+&lt;p&gt;&lt;img src=&quot;https://ipfs.pics/ipfs/QmTUNJG5iMVb6FZPVzqh91TusyBCopn4R2RvJ82b434goT&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;img-classemoji-titlefire-altfire-srchttpsassetsgithubcomimagesiconsemojiunicode1f525png-height20-width20-alignabsmiddle--calories-burned&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:fire:&quot; alt=&quot;:fire:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f525.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Calories burned&lt;/h3&gt;
 
-&lt;!-- ![Markdowm Image][calories] --&gt;
+&lt;p&gt;&lt;img src=&quot;https://ipfs.pics/ipfs/QmdSxVTKYZ82GFn4neEG3FVT1Y9vvBPrzKZJvBtvqdmLJN&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;sleep&quot;&gt;Sleep&lt;/h2&gt;
 
@@ -229,35 +226,37 @@ BMI: &lt;strong&gt;24.6&lt;/strong&gt; &lt;em&gt;&lt;img class=&quot;emoji&quot;
 
 &lt;h2 id=&quot;progress-pics&quot;&gt;Progress Pics&lt;/h2&gt;
 
-&lt;!-- &lt;img class=&#39;emoji&#39; title=&#39;:no_entry_sign:&#39; alt=&#39;:no_entry_sign:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f6ab.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; --&gt;
+&lt;p&gt;&lt;img class=&quot;emoji&quot; title=&quot;:no_entry_sign:&quot; alt=&quot;:no_entry_sign:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f6ab.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;
 &lt;!-- OR --&gt;
 &lt;!-- ![Markdowm Image][progress-pic-1]
-![Markdowm Image][progress-pic-2] --&gt;
+![Markdowm Image][progress-pic-2] --&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;workout-feedback&quot;&gt;Workout Feedback&lt;/h2&gt;
 
 &lt;!-- Choose an emoji or embed a tweet --&gt;
 
-&lt;!-- &lt;img class=&#39;emoji&#39; title=&#39;:shipit:&#39; alt=&#39;:shipit:&#39; src=&#39;https://assets.github.com/images/icons/emoji/shipit.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:100:&#39; alt=&#39;:100:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f4af.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:warning:&#39; alt=&#39;:warning:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/26a0.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:dart:&#39; alt=&#39;:dart:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f3af.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:bomb:&#39; alt=&#39;:bomb:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f4a3.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:hocho:&#39; alt=&#39;:hocho:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f52a.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:racehorse:&#39; alt=&#39;:racehorse:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f40e.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:whale2:&#39; alt=&#39;:whale2:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f40b.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:chicken:&#39; alt=&#39;:chicken:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f414.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:ox:&#39; alt=&#39;:ox:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f402.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; --&gt;
-&lt;!-- &lt;img class=&#39;emoji&#39; title=&#39;:finnadie:&#39; alt=&#39;:finnadie:&#39; src=&#39;https://assets.github.com/images/icons/emoji/finnadie.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:goberserk:&#39; alt=&#39;:goberserk:&#39; src=&#39;https://assets.github.com/images/icons/emoji/goberserk.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:feelsgood:&#39; alt=&#39;:feelsgood:&#39; src=&#39;https://assets.github.com/images/icons/emoji/feelsgood.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:godmode:&#39; alt=&#39;:godmode:&#39; src=&#39;https://assets.github.com/images/icons/emoji/godmode.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:hurtrealbad:&#39; alt=&#39;:hurtrealbad:&#39; src=&#39;https://assets.github.com/images/icons/emoji/hurtrealbad.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:rage1:&#39; alt=&#39;:rage1:&#39; src=&#39;https://assets.github.com/images/icons/emoji/rage1.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt;2:3:4: &lt;img class=&#39;emoji&#39; title=&#39;:suspect:&#39; alt=&#39;:suspect:&#39; src=&#39;https://assets.github.com/images/icons/emoji/suspect.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; --&gt;
-&lt;!-- &lt;img class=&#39;emoji&#39; title=&#39;:fu:&#39; alt=&#39;:fu:&#39; src=&#39;https://assets.github.com/images/icons/emoji/fu.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:muscle:&#39; alt=&#39;:muscle:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f4aa.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:raised_hands:&#39; alt=&#39;:raised_hands:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f64c.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:metal:&#39; alt=&#39;:metal:&#39; src=&#39;https://assets.github.com/images/icons/emoji/metal.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:+1:&#39; alt=&#39;:+1:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f44d.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:-1:&#39; alt=&#39;:-1:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f44e.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:punch:&#39; alt=&#39;:punch:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f44a.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:v:&#39; alt=&#39;:v:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/270c.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:ok_hand:&#39; alt=&#39;:ok_hand:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f44c.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; --&gt;
-&lt;!-- &lt;img class=&#39;emoji&#39; title=&#39;:trollface:&#39; alt=&#39;:trollface:&#39; src=&#39;https://assets.github.com/images/icons/emoji/trollface.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:older_man:&#39; alt=&#39;:older_man:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f474.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:baby:&#39; alt=&#39;:baby:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f476.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:no_good:&#39; alt=&#39;:no_good:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f645.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:poop:&#39; alt=&#39;:poop:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f4a9.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:sweat_drops:&#39; alt=&#39;:sweat_drops:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f4a6.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:fire:&#39; alt=&#39;:fire:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f525.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:boom:&#39; alt=&#39;:boom:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f4a5.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; --&gt;
-&lt;!-- &lt;img class=&#39;emoji&#39; title=&#39;:dizzy_face:&#39; alt=&#39;:dizzy_face:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f635.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:mask:&#39; alt=&#39;:mask:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f637.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:confounded:&#39; alt=&#39;:confounded:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f616.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:sob:&#39; alt=&#39;:sob:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f62d.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:expressionless:&#39; alt=&#39;:expressionless:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f611.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; &lt;img class=&#39;emoji&#39; title=&#39;:satisfied:&#39; alt=&#39;:satisfied:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f606.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; --&gt;
+&lt;p&gt;&lt;img class=&quot;emoji&quot; title=&quot;:shipit:&quot; alt=&quot;:shipit:&quot; src=&quot;https://assets.github.com/images/icons/emoji/shipit.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
 
 &lt;!-- &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Like if you&amp;#39;re working out today! 💪&lt;/p&gt;&amp;mdash; Gym Motivation (@GymGoers) &lt;a href=&quot;https://twitter.com/GymGoers/status/706213281745268736&quot;&gt;March 5, 2016&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt; --&gt;
 
 &lt;h2 id=&quot;playlist&quot;&gt;Playlist&lt;/h2&gt;
 
-&lt;!-- &lt;iframe src=&quot;https://embed.spotify.com/?uri=spotify%3Auser%3Abrenodamata%3Aplaylist%3A4FWZVkZmcEgcIZRWCCXAzs&quot; width=&quot;300&quot; height=&quot;380&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt; --&gt;
+&lt;iframe src=&quot;https://embed.spotify.com/?uri=spotify%3Auser%3Abrenodamata%3Aplaylist%3A421NlI3nirNxy86cqajJXt&quot; width=&quot;300&quot; height=&quot;380&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
 
 &lt;h2 id=&quot;side-notes&quot;&gt;Side Notes&lt;/h2&gt;
 
 &lt;p&gt;&lt;img class=&quot;emoji&quot; title=&quot;:sunny:&quot; alt=&quot;:sunny:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/2600.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Woke up slightly full. &lt;br /&gt;
 &lt;img class=&quot;emoji&quot; title=&quot;:sunny:&quot; alt=&quot;:sunny:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/2600.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Less than 6hrs of sleep but energy is high. &lt;br /&gt;
-&lt;!-- &lt;img class=&#39;emoji&#39; title=&#39;:new_moon:&#39; alt=&#39;:new_moon:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f311.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt; Night time notes &lt;br&gt; --&gt;&lt;/p&gt;
+&lt;img class=&quot;emoji&quot; title=&quot;:new_moon:&quot; alt=&quot;:new_moon:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f311.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Under for all macros &lt;br /&gt;
+&lt;img class=&quot;emoji&quot; title=&quot;:new_moon:&quot; alt=&quot;:new_moon:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f311.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Front delts felt week during workout &lt;br /&gt;
+&lt;img class=&quot;emoji&quot; title=&quot;:new_moon:&quot; alt=&quot;:new_moon:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f311.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; Drink more water &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;emoji&quot; title=&quot;:smoking:&quot; alt=&quot;:smoking:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f6ac.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;img class=&quot;emoji&quot; title=&quot;:fist:&quot; alt=&quot;:fist:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/270a.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;img class=&quot;emoji&quot; title=&quot;:fist:&quot; alt=&quot;:fist:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/270a.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
 
 &lt;!-- Links: --&gt;
 
+&lt;!-- [progress-pic-1]: h
+[progress-pic-2]: h --&gt;
 </content>
 <category term="12 week fitness" />
 <category term="Y3T" />
