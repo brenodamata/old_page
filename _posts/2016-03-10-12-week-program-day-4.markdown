@@ -4,7 +4,7 @@ layout: post
 date: 2016-03-10 10:28
 tag:
 - 12 week fitness
-- Type of training
+- Y3T
 - Back
 - Lats
 blog: true
