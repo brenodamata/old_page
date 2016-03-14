@@ -8,18 +8,16 @@ tag:
 - Back
 - Lats
 blog: true
-draft: true
+draft: false
 star: false
 ---
 ## Back and Lats Y3T 
 
 BodySpace: [:muscle:](http://bodyspace.bodybuilding.com/brenodamata/) <br>
 Fitbit: [:running:](https://www.fitbit.com/user/3WJZ2S) <br>
-Energy Level: :battery: out of 4 <br>
-Self Rating: :question: :one: - :keycap_ten:<br>
-<!-- Choose one: -->
-<!-- Calorie Surplus: **200** = 3000 calories intake - 2800 calories burned <br>
-Calorie Deficit: **-200** = 2060 calories intake - 2800 calories burned <br> -->
+Energy Level: :battery::battery: <br>
+Self Rating: :seven:<br>
+Calorie Surplus: **3** = 2755 calories intake - 2752 calories burned <br>
 
 ## Muscles Worked & Stats
 
@@ -43,34 +41,34 @@ Calorie Deficit: **-200** = 2060 calories intake - 2800 calories burned <br> -->
   </tr>
   <tr>
     <td class="tg-yw4l">Total Exercises</td>
-    <td class="tg-yw4l" style="font-weight:bold;"><!-- Number of exercises --></td>
+    <td class="tg-yw4l" style="font-weight:bold;">7</td>
     <td></td>
     <td></td>
     <td></td>
-    <td class="tg-yw4l" style="font-weight:bold;"><!-- Primary muscle group worked --></td>
+    <td class="tg-yw4l" style="font-weight:bold;">Back</td>
     <td class="tg-yw4l">:white_check_mark:</td> <!-- Use :white_check_mark: or :x: -->
   </tr>
   <tr>
     <td class="tg-yw4l">Total Sets</td>
-    <td class="tg-yw4l" style="font-weight:bold;"><!-- Number fo total sets --></td>
+    <td class="tg-yw4l" style="font-weight:bold;">19</td>
     <td></td>
     <td></td>
     <td></td>
-    <td class="tg-yw4l" style="font-weight:bold;"><!-- Secondary muscle group worked --></td>
+    <td class="tg-yw4l" style="font-weight:bold;">Lats</td>
     <td class="tg-yw4l">:white_check_mark:</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Total Weight Lifted</td>
-    <td class="tg-yw4l" style="font-weight:bold;"><!-- Y lbs. --></td>
+    <td class="tg-yw4l" style="font-weight:bold;">21,735 lbs</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="tg-yw4l" style="font-weight:bold;"><!-- Secondary muscle group worked --></td>
-    <td class="tg-lqy6">:white_check_mark:</td>
+    <td class="tg-lqy6"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Total Workout Time</td>
-    <td class="tg-yw4l" style="font-weight:bold;">00:00 hr:min</td>
+    <td class="tg-yw4l" style="font-weight:bold;">01:18 hr:min</td>
     <td></td>
     <td></td>
     <td></td>
@@ -79,23 +77,19 @@ Calorie Deficit: **-200** = 2060 calories intake - 2800 calories burned <br> -->
   </tr>
   <tr>
     <td class="tg-yw4l">Total Cardio</td>
-    <td class="tg-yw4l" style="font-weight:bold;">00:00 hr:min</td>
+    <td class="tg-yw4l" style="font-weight:bold;">00:18 hr:min</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="tg-yw4l" style="font-weight:bold;">Cardio</td>
-    <td class="tg-yw4l">:x:</td>
+    <td class="tg-yw4l">:white_check_mark:</td>
   </tr>
 </table>
 
-#### [Workout Details](link from bodyspace here) (Exercises, sets, weights and rest times)
+#### [Workout Details](http://my.bodybuilding.com/workouts/viewworkoutlog/brenodamata/56e203460cf250667e0c7455) (Exercises, sets, weights and rest times)
 Tempo: **3010** <br> <!-- [ABCD] A: negative, B: Flex position, C: Force, D: Starting position -->
 Rest: **Time in seconds**<br> 
-Cardio: **HIIT - 2 min warmup, 1 min at H%  + 3 min at I% (4x)**<br> 
-Treadmill: **100% speed was X
-:running: H% = X*0.H
-:walking: I% = X*0.I**
-<!-- H is high intensity | L is low intensity | X is max speed -->
+:running: HIIT Treadmill: **2 min warmup, 1 min at H%  + 3 min at I% (4x)**<br> 
 
 <div class="breaker"></div>
 
@@ -115,70 +109,62 @@ Treadmill: **100% speed was X
 ## Nutrition
 
 #### :droplet: Water intake:
-~N lts.
+~2 lts.
 
-<!-- ![Markdowm Image][water]
-<figcaption class="caption">Water intake tracked with Lifesum</figcaption> -->
+![Markdowm Image][water]
+<figcaption class="caption">Water intake tracked with Lifesum</figcaption>
 
 #### :egg: Breakfast: *Calories* **724** | *Carbs* **81g** | *Protein* **52g** | *Fat* **21g**
 :clock930: A cup of diced pineapple, 50g of mint, 1 tbs of organic chia seeds, 1/2 scoop of Hydro Whey, 1 leaf of kale, 1/2 of lemon with 12oz of water. Three large eggs. 2 slices of whole wheat bread with organic blueberries preserves. 1 Cup of coffee with organic brown sugar.
 
-#### :poultry_leg: Lunch: *Calories* **kcal** | *Carbs* **g** | *Protein* **g** | *Fat* **g**
-<!-- Time and what's for lunch -->
-<!-- Example: :clock1: Chiken breasts and brown rice -->
-
-#### Pre-workout: *Calories* **kcal** | *Carbs* **g** | *Protein* **g** | *Fat* **g**
-<!-- Time and pre-workout meal -->
-<!-- :clock4: Protein Shake: 1 1/2 scoops of Hydro Whey, 5mg of Creatine, 1/2 advocato, 1 tps of peanut butter, 1/4 cup of blueberries, 1 strawberry, 1/2 banna with 2% Milk. -->
+#### :poultry_leg: Lunch: *Calories* **619** | *Carbs* **36g** | *Protein* **68g** | *Fat* **28g**
+Asparagus, broccoli and grilled chicken.
 
 #### Intra-workout :muscle: :sweat_drops: 
-<!-- Time of workout, move it accordingly -->
-<!-- :clock530: 1/2 scoop Pre Jym, 2 scoops of BCAA powder with 14oz of water. -->
+1/2 scoop Pre Jym, 2 scoops of BCAA powder with 14oz of water.
 
-#### Post-worktout: *Calories* **kcal** | *Carbs* **g** | *Protein* **g** | *Fat* **g**
-<!-- Time and post-workout meal -->
-<!-- :clock7: 1 scoop of Hydro Whey, 5mg of Creatine with 14oz of water.  -->
+#### Post-worktout: *Calories* **154** | *Carbs* **2g** | *Protein* **32g** | *Fat* **1g**
+1 scoop of Hydro Whey, 5mg of Creatine with 14oz of water. 
 
-#### :curry: Dinner: *Calories* **kcal** | *Carbs* **g** | *Protein* **g** | *Fat* **g**
-<!-- Time and what's for dinner -->
-<!-- :clock930: 1 scoop of Caisine and 1 Banana with 14oz of water. 1 Apple. -->
+#### :curry: Dinner: *Calories* **1230** | *Carbs* **110g** | *Protein* **101g** | *Fat* **39g**
+Pasta with chicken meatballs. 1 scoop of Caisine with 14oz of water.
 
-<!-- ![Markdowm Image][nutrition-intake]
+![Markdowm Image][nutrition-intake]
 <figcaption class="caption">Nutrition intake graph breakdown with Lifesum</figcaption>
 
 ![Markdowm Image][nutrition-info]
-<figcaption class="caption">Nutrition information details with Lifesum</figcaption> -->
+<figcaption class="caption">Nutrition information details with Lifesum</figcaption>
 
 #### :dart: Targets:
 
 Macro | Consumed | Lifesum Goal | Program Suggestion | Rest Day
-Cals | x | 3202 | 3018 | 2892 
-Carbs | y | 297 | 440 | 263
-Protein | z | 261 | 264 | 350
-Fat | q | 108 | 78 | 117
+Cals | 2755 | 3202 | 3018 | 2892 
+Carbs | 236 | 297 | 440 | 263
+Protein | 253 | 261 | 264 | 350
+Fat | 89 | 108 | 78 | 117
 
 ## Supplementation
 
 * 3 Multivitamin pills. (breakfast, lunch, dinner)
-* 4 ZMA (bed-time)
+* No ZMA 
 
 ## Current Body Composition
-:sunny: :new_moon: Measured *when? (post workout, sunrise) **8:13PM** <br>
+:sunny: Measured in the morning **8:15AM** <br>
 Weight: **168.6 lbs** *:small_red_triangle_down:1.1 lbs*<br> 
 Bodyfat: **15.7%** *:small_red_triangle:0.8%*<br> 
 BMI: **24.4** *:small_red_triangle_down:0.2*
 
-![Markdowm Image][weight]
-<figcaption class="caption">Weight graph from Fitbit</figcaption>
+:new_moon: Measured post workout at night **8:16PM** <br>
+Weight: **170.5 lbs**<br> 
+Bodyfat: **16.9%**<br> 
 
 ## Activity HR
 
-Peak: <!-- **? BPM** --> - Fatburn Zone :fire: :sweat_drops:
+Peak: **164 BPM** - Fatburn Zone :fire: :sweat_drops: <br>
+Resting Heart Rate: **67 BPM** :heartbeat:
 
 ![Markdowm Image][heart-rate]
 <figcaption class="caption">Heart rate graph from Fitbit</figcaption>
-
-![Markdowm Image][activity]
 
 
 ### :fire: Calories burned
@@ -200,37 +186,29 @@ Peak: <!-- **? BPM** --> - Fatburn Zone :fire: :sweat_drops:
 
 ## Workout Feedback
 
-<!-- Choose an emoji or embed a tweet -->
-
-<!-- :shipit: :100: :warning: :dart: :bomb: :hocho: :racehorse: :whale2: :chicken: :ox: -->
-<!-- :finnadie: :goberserk: :feelsgood: :godmode: :hurtrealbad: :rage1:2:3:4: :suspect: -->
-<!-- :fu: :muscle: :raised_hands: :metal: :+1: :-1: :punch: :v: :ok_hand: -->
-<!-- :trollface: :older_man: :baby: :no_good: :poop: :sweat_drops: :fire: :boom: -->
-<!-- :dizzy_face: :mask: :confounded: :sob: :expressionless: :satisfied: -->
-
-<!-- <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Like if you&#39;re working out today! 💪</p>&mdash; Gym Motivation (@GymGoers) <a href="https://twitter.com/GymGoers/status/706213281745268736">March 5, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+:dizzy_face:
 
 ## Playlist
 
-<!-- <iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Abrenodamata%3Aplaylist%3A4FWZVkZmcEgcIZRWCCXAzs" width="300" height="380" frameborder="0" allowtransparency="true"></iframe> -->
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Abbcommusclemusic%3Aplaylist%3A3AWRBXoaJ1qC1mqM0fL144" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 
 ## Side Notes
 
-:sunny: Underslept, 2 nights in a row. <br>
+<!-- :sunny: Underslept, 2 nights in a row. <br> -->
 <!-- :new_moon: Night time notes <br> -->
 
-<!-- :smoking: :fist: -->
+:smoking: :fist:
 
 <!-- Links: -->
 
 [example]: https://ipfs.pics/ipfs/Qmc2UGFKA21U6oATLpvajBSiNQo7DZcproprrRkbXjFXaL
 [weight]: https://ipfs.pics/ipfs/QmW3FgNGeD46kHEryFUw1ftEUqRw254WkKxYeKaouz7DJA
-[activity]: h
+[activity]: https://ipfs.pics/ipfs/QmYZecrcEcHrWTA3sJ5yw5vSBZ1HkicABLeQ8tkXiCNnA6
 [calories]: h
 [heart-rate]: h
 [sleep]: https://ipfs.pics/ipfs/QmW3FgNGeD46kHEryFUw1ftEUqRw254WkKxYeKaouz7DJA
-[water]: h
+[water]: https://ipfs.pics/ipfs/QmQas6hQW4zazKFNBrWQf3iKmgAy74RztUavfe4Wndo3HM
 [progress-pic-1]: h
 [progress-pic-2]: h
-[nutrition-intake]: h
-[nutrition-info]: h
+[nutrition-intake]: https://ipfs.pics/ipfs/QmadwGyXKpdpsNakirJbPZoU6CUkcccneEUUKNQP2nTQ69
+[nutrition-info]: https://ipfs.pics/ipfs/QmTGnkYEFURsoMGQTBtZvWX24E8bLYvBEktPLJ2uaYGW1S
