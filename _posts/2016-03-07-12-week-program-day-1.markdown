@@ -8,7 +8,7 @@ tag:
 - Legs
 - Abs
 blog: true
-draft: false
+draft: true
 star: false
 ---
 ## Legs and Abs Y3T
@@ -83,10 +83,10 @@ Self Rating: :eight: <br>
     <td class="tg-yw4l">:x:</td>
   </tr>
 </table>
- 
+
 
 #### [Workout Details](http://bodyspace.bodybuilding.com/workouts/viewworkoutlog/brenodamata/56de13ad0cf254b2d6541cd2) (Exercises, sets, weights and rest times)
-Tempo: **3010** <br> 
+Tempo: **3010** <br>
 Rest: **60-90 seconds**
 
 
@@ -107,7 +107,7 @@ Rest: **60-90 seconds**
 ## Nutrition
 
 #### :droplet: Water intake:
-~3 lt 
+~3 lt
 
 #### :egg: Breakfast:
 :clock930: Two large eggs with low fat cheese. 1 slice of whole wheat bread with organic blueberries preserves. 1 Cup of coffee.
@@ -118,10 +118,10 @@ Rest: **60-90 seconds**
 #### Pre-workout:
 :clock4: Protein Shake: 1 1/2 scoops of Hydro Whey, 5mg of Creatine, 1/2 advocato, 1 tps of peanut butter, 1/4 cup of blueberries, 1 strawberry, 1/2 banna with 2% Milk.
 
-#### :clock530: Workout :muscle: :sweat_drops: 
+#### :clock530: Workout :muscle: :sweat_drops:
 
 #### Post-worktout:
-:clock7: 1 scoop of Hydro Whey, 5mg of Creatine with 14oz of water. 
+:clock7: 1 scoop of Hydro Whey, 5mg of Creatine with 14oz of water.
 
 #### :curry: Dinner:
 :clock930: 1 scoop of Caisine and 1 Banana with 14oz of water. 1 Apple.
@@ -147,7 +147,7 @@ Bodyfat: 16.3%
 <figcaption class="caption">Heart rate graph from Fitbit</figcaption>
 
 ## Sleep
-:zzz: 
+:zzz:
 <!-- ![Markdowm Image][sleep] -->
 
 ## Progress Pics

@@ -8,7 +8,7 @@ tag:
 - Chest
 - Triceps
 blog: true
-draft: false
+draft: true
 star: false
 ---
 ## Chest and Triceps Y3T
@@ -87,9 +87,9 @@ Calorie Surplus: **188** = 2846 - 2658 <br>
 </table>
 
 #### [Workout Details](http://bodyspace.bodybuilding.com/workouts/viewworkoutlog/brenodamata/56df6e930cf2a4e64b935a0b) (Exercises, sets, weights and rest times)
-Tempo: **3010** <br> 
-Rest: **60-90 seconds**<br> 
-Cardio: **HIIT - 2 min warmup, 1 min at 90%  + 3 min at 51% (4x)**<br> 
+Tempo: **3010** <br>
+Rest: **60-90 seconds**<br>
+Cardio: **HIIT - 2 min warmup, 1 min at 90%  + 3 min at 51% (4x)**<br>
 Treadmill: **100% speed was 8.4
 :running: 90% = 7.6
 :walking: 51% = 4.3**
@@ -113,7 +113,7 @@ Treadmill: **100% speed was 8.4
 ## Nutrition
 
 #### :droplet: Water intake:
-~3.5 lt 
+~3.5 lt
 ![Markdowm Image][water]
 <figcaption class="caption">Water intake tracked with Lifesum</figcaption>
 
@@ -121,18 +121,18 @@ Treadmill: **100% speed was 8.4
 :clock930: Three large eggs. 1 slice of whole wheat bread with organic blueberries preserves. 1 Cup of coffee.
 
 #### :poultry_leg: Lunch:
-:clock130: Lasgna, wild rice and ground turkey. 
+:clock130: Lasgna, wild rice and ground turkey.
 
 #### Pre-workout:
 :clock430: Protein Shake: <br>
 
 ![Markdowm Image][preworkout-protein-shake]
 
-#### Intra-workout :muscle: :sweat_drops: 
+#### Intra-workout :muscle: :sweat_drops:
 :clock530: 1/2 scoop Pre Jym, 2 scoops of BCAA powder with 14oz of water.
 
 #### Post-worktout:
-:clock730: 1 scoop of Hydro Whey, 5mg of Creatine with 14oz of water. 
+:clock730: 1 scoop of Hydro Whey, 5mg of Creatine with 14oz of water.
 
 #### :curry: Dinner:
 :clock930: 1 chiken thigh with salad. 1 scoop of Casein, 1 banana with 12oz of water.
@@ -158,8 +158,8 @@ Fat | 89 | 108 | 78
 
 ## Current Body Composition
 :new_moon: Measured after workout **8:13PM** <br>
-Weight: **174.3 lbs** *:small_red_triangle:1.9 lbs*<br> 
-Bodyfat: **16.1%** *:small_red_triangle_down:0.2%*<br> 
+Weight: **174.3 lbs** *:small_red_triangle:1.9 lbs*<br>
+Bodyfat: **16.1%** *:small_red_triangle_down:0.2%*<br>
 BMI: **25.2** *:small_red_triangle:0.3*
 
 ![Markdowm Image][weight]
@@ -182,7 +182,7 @@ Peak: **163 BPM** - Fatburn Zone :fire: :sweat_drops:
 
 ## Sleep
 
-:zzz: 
+:zzz:
 ![Markdowm Image][sleep]
 
 ## Progress Pics
@@ -205,7 +205,7 @@ Sholders felt a bit thight.
 :dart: Next cardio goals: **100% speed up to 9. HIIT 1m @ 90% (8.1) + 3m @ 60% (5.4)** <br>
 :new_moon: Lower carb intake than recomended: 271/426.2 (296) was plenty of fuel for workout. <br>
 :new_moon: Lacked a 7g of fiber, surpassed 14g of sugar. <br>
-:new_moon: Calves a bit sore. 
+:new_moon: Calves a bit sore.
 
 [weight]: https://ipfs.pics/ipfs/QmXjwEiEEtLj5BSXpFm9CP3hafAWxrELKG5x9TJk7zjGsC
 [heart-rate]: https://ipfs.pics/ipfs/QmX2h4YetrPvAyvZ67caumDV55NmQZyPkVpjZEh1Xgs8rP

@@ -8,7 +8,7 @@ tag:
 - Shoulder
 - Abs
 blog: true
-draft: false
+draft: true
 star: false
 ---
 ## Shoulders and Abs Y3T
@@ -45,7 +45,7 @@ Calorie Deficit: **-122** = 2450 calories intake - 2572 calories burned <br>
     <td></td>
     <td></td>
     <td class="tg-yw4l" style="font-weight:bold;">Shoulders</td>
-    <td class="tg-yw4l">:white_check_mark:</td> 
+    <td class="tg-yw4l">:white_check_mark:</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Total Sets</td>
@@ -86,9 +86,9 @@ Calorie Deficit: **-122** = 2450 calories intake - 2572 calories burned <br>
 </table>
 
 #### [Workout Details](http://my.bodybuilding.com/workouts/track-overview/56e0bac80cf224c625970c3b?edit=5&exerciseid=262) (Exercises, sets, weights and rest times)
-Tempo: **3010** <br> 
-Rest: **60-90 seconds**<br> 
-Cardio: **HIIT - 2 min warmup, 30 seconds at 90%  + 1 min at 50% (4x)**<br> 
+Tempo: **3010** <br>
+Rest: **60-90 seconds**<br>
+Cardio: **HIIT - 2 min warmup, 30 seconds at 90%  + 1 min at 50% (4x)**<br>
 :bicyclist: Stationary Bike: **100% speed was 20**<br>
 High Intensity: **90% = 18**<br>
 Interval: **50% = 10**
@@ -125,14 +125,14 @@ Interval: **50% = 10**
 #### Pre-workout: *Calories* **642** | *Carbs* **50g** | *Protein* **58g** | *Fat* **22g**
 :clock430: Protein Shake: 1.4 scoops of Hydro Whey, 5mg of Creatine, 1/4 of large advocato, 1/4 cup of blueberries, 1 strawberry, 1/2 banna, 1/2 scoop of Pre Jym with 400ml of 2% Milk.
 
-#### Intra-workout :muscle: :sweat_drops: 
+#### Intra-workout :muscle: :sweat_drops:
 :clock530: 1/2 scoop Pre Jym, 2 scoops of BCAA powder with 14oz of water.
 
 #### Post-worktout: *Calories* **154** | *Carbs* **2g** | *Protein* **32g** | *Fat* **1g**
-:clock7: 1 scoop of Hydro Whey, 5mg of Creatine with 14oz of water. 
+:clock7: 1 scoop of Hydro Whey, 5mg of Creatine with 14oz of water.
 
 #### :curry: Dinner: *Calories* **291** | *Carbs* **33g** | *Protein* **37g** | *Fat* **1g**
-:clock1130: 1.5 scoop of Caisine and 1 Banana with 14oz of water. 
+:clock1130: 1.5 scoop of Caisine and 1 Banana with 14oz of water.
 
 ![Markdowm Image][nutrition-intake]
 <figcaption class="caption">Nutrition intake graph breakdown with Lifesum</figcaption>
@@ -143,7 +143,7 @@ Interval: **50% = 10**
 #### :dart: Targets:
 
 Macro | Consumed | Lifesum Goal | Program Suggestion | Rest Day
-Cals | 2450 | 3202 | 3018 | 2892 
+Cals | 2450 | 3202 | 3018 | 2892
 Carbs | 234 | 297 | 440 | 263
 Protein | 246 | 261 | 264 | 350
 Fat | 60 | 108 | 78 | 117
@@ -155,8 +155,8 @@ Fat | 60 | 108 | 78 | 117
 
 ## Current Body Composition
 :sunny: Measured first thing in the morning **8:07AM** <br>
-Weight: **169.7 lbs** *:small_red_triangle_down:4.6 lbs*<br> 
-Bodyfat: **14.9%** *:small_red_triangle_down:1.2%*<br> 
+Weight: **169.7 lbs** *:small_red_triangle_down:4.6 lbs*<br>
+Bodyfat: **14.9%** *:small_red_triangle_down:1.2%*<br>
 BMI: **24.6** *:small_red_triangle_down:0.6*
 
 ![Markdowm Image][weight]
@@ -184,7 +184,7 @@ Peak: **150 BPM** - Cardio Zone :fire: :sweat_drops:
 
 ## Sleep
 
-:zzz: 
+:zzz:
 
 ![Markdowm Image][sleep]
 
@@ -199,7 +199,7 @@ Peak: **150 BPM** - Cardio Zone :fire: :sweat_drops:
 
 <!-- Choose an emoji or embed a tweet -->
 
-:shipit: 
+:shipit:
 
 <!-- <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Like if you&#39;re working out today! 💪</p>&mdash; Gym Motivation (@GymGoers) <a href="https://twitter.com/GymGoers/status/706213281745268736">March 5, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 

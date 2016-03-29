@@ -8,10 +8,10 @@ tag:
 - Back
 - Lats
 blog: true
-draft: false
+draft: true
 star: false
 ---
-## Back and Lats Y3T 
+## Back and Lats Y3T
 
 BodySpace: [:muscle:](http://bodyspace.bodybuilding.com/brenodamata/) <br>
 Fitbit: [:running:](https://www.fitbit.com/user/3WJZ2S) <br>
@@ -88,8 +88,8 @@ Calorie Surplus: **3** = 2755 calories intake - 2752 calories burned <br>
 
 #### [Workout Details](http://my.bodybuilding.com/workouts/viewworkoutlog/brenodamata/56e203460cf250667e0c7455) (Exercises, sets, weights and rest times)
 Tempo: **3010** <br> <!-- [ABCD] A: negative, B: Flex position, C: Force, D: Starting position -->
-Rest: **Time in seconds**<br> 
-:running: HIIT Treadmill: **2 min warmup, 1 min at H%  + 3 min at I% (4x)**<br> 
+Rest: **Time in seconds**<br>
+:running: HIIT Treadmill: **2 min warmup, 1 min at H%  + 3 min at I% (4x)**<br>
 
 <div class="breaker"></div>
 
@@ -120,11 +120,11 @@ Rest: **Time in seconds**<br>
 #### :poultry_leg: Lunch: *Calories* **619** | *Carbs* **36g** | *Protein* **68g** | *Fat* **28g**
 Asparagus, broccoli and grilled chicken.
 
-#### Intra-workout :muscle: :sweat_drops: 
+#### Intra-workout :muscle: :sweat_drops:
 1/2 scoop Pre Jym, 2 scoops of BCAA powder with 14oz of water.
 
 #### Post-worktout: *Calories* **154** | *Carbs* **2g** | *Protein* **32g** | *Fat* **1g**
-1 scoop of Hydro Whey, 5mg of Creatine with 14oz of water. 
+1 scoop of Hydro Whey, 5mg of Creatine with 14oz of water.
 
 #### :curry: Dinner: *Calories* **1230** | *Carbs* **110g** | *Protein* **101g** | *Fat* **39g**
 Pasta with chicken meatballs. 1 scoop of Caisine with 14oz of water.
@@ -138,7 +138,7 @@ Pasta with chicken meatballs. 1 scoop of Caisine with 14oz of water.
 #### :dart: Targets:
 
 Macro | Consumed | Lifesum Goal | Program Suggestion | Rest Day
-Cals | 2755 | 3202 | 3018 | 2892 
+Cals | 2755 | 3202 | 3018 | 2892
 Carbs | 236 | 297 | 440 | 263
 Protein | 253 | 261 | 264 | 350
 Fat | 89 | 108 | 78 | 117
@@ -146,17 +146,17 @@ Fat | 89 | 108 | 78 | 117
 ## Supplementation
 
 * 3 Multivitamin pills. (breakfast, lunch, dinner)
-* No ZMA 
+* No ZMA
 
 ## Current Body Composition
 :sunny: Measured in the morning **8:15AM** <br>
-Weight: **168.6 lbs** *:small_red_triangle_down:1.1 lbs*<br> 
-Bodyfat: **15.7%** *:small_red_triangle:0.8%*<br> 
+Weight: **168.6 lbs** *:small_red_triangle_down:1.1 lbs*<br>
+Bodyfat: **15.7%** *:small_red_triangle:0.8%*<br>
 BMI: **24.4** *:small_red_triangle_down:0.2*
 
 :new_moon: Measured post workout at night **8:16PM** <br>
-Weight: **170.5 lbs**<br> 
-Bodyfat: **16.9%**<br> 
+Weight: **170.5 lbs**<br>
+Bodyfat: **16.9%**<br>
 
 ## Activity HR
 
@@ -174,7 +174,7 @@ Resting Heart Rate: **67 BPM** :heartbeat:
 
 ## Sleep
 
-:zzz: 
+:zzz:
 ![Markdowm Image][sleep]
 
 ## Progress Pics
