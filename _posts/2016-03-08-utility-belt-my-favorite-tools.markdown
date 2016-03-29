@@ -6,13 +6,14 @@ tag:
 - apps
 - productivity
 blog: true
-draft: true
+draft: false
 star: false
 ---
 Here are my favorite tools from my Utility Belt.
 
 ### Menu
 - [Coding](#coding)
+- [Product Management](#product-management)
 - [Productivity](#productivity)
 - [Fitness](#fitness)
 
@@ -20,25 +21,50 @@ Here are my favorite tools from my Utility Belt.
 
 ## Coding
 
-##### [Github](https://github.com)
+Version control:
+[Github](https://github.com)
 
-##### [Stack Overflow](http://stackoverflow.com)
+IDE:
+[Sublime Text](https://www.sublimetext.com)
+
+Q&A:
+[Stack Overflow](http://stackoverflow.com)
+
+## Product Management
+
+Chat:
+[Slack](https://www.slack.com)
+
+Client communication:
+[Basecamp](https://basecamp.com)
+
+Collaboration:
+[Trello](https://trello.com)
+
+Notes:
+[Evernote](https://evernote.com/), [Dropbox](https://www.dropbox.com)
+
+Todo Lists:
+[Wunderlist](https://www.wunderlist.com/)
 
 ## Productivity
 
-##### [Forest](http://www.forestapp.cc)
-Review and images here
+Distraction disabler:
+[Forest](http://www.forestapp.cc)
+
+Time tracker:
+[Toggl](https://www.toggl.com)
 
 ## Fitness
 
-##### [Fitbit Charge HR](https://www.fitbit.com/chargehr)
-Review and images here
+Fitness tracker:
+[Fitbit Charge HR](https://www.fitbit.com/chargehr)
 
-##### [Fitbit Aria Smart Scale](https://www.fitbit.com/aria)
-Review and images here
+Smart Scale:
+[Fitbit Aria](https://www.fitbit.com/aria)
 
-##### [Fitbit App](https://www.fitbit.com/app)
-Review and images here
+Apps:
+[Fitbit App](https://www.fitbit.com/app), [Bodyspace](https://itunes.apple.com/us/app/bodyspace-social-fitness-app/id687818146?mt=8)
 
-##### [Lifesum](http://lifesum.com)
-Review and images here
+Nutrition:
+[Lifesum](http://lifesum.com)

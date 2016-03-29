@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
-<link href="http://brenodamata.github.io/feed.xml" rel="self" type="application/atom+xml" />
-<link href="http://brenodamata.github.io/" rel="alternate" type="text/html" />
-<updated>2016-03-29T13:27:46-04:00</updated>
-<id>http://brenodamata.github.io/</id>
+<link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
+<link href="http://localhost:3000/" rel="alternate" type="text/html" />
+<updated>2016-03-29T13:43:03-04:00</updated>
+<id>http://localhost:3000/</id>
 <title>Breno da Mata</title>
 <entry>
 <title>12 Week Program Day 4</title>
-<link href="http://brenodamata.github.io/12-week-program-day-4/" rel="alternate" type="text/html" title="12 Week Program Day 4" />
+<link href="http://localhost:3000/12-week-program-day-4/" rel="alternate" type="text/html" title="12 Week Program Day 4" />
 <published>2016-03-10T10:28:00-05:00</published>
 <updated>2016-03-10T10:28:00-05:00</updated>
-<id>http://brenodamata.github.io/12-week-program-day-4</id>
-<content type="html" xml:base="http://brenodamata.github.io/12-week-program-day-4/">&lt;h2 id=&quot;back-and-lats-y3t&quot;&gt;Back and Lats Y3T&lt;/h2&gt;
+<id>http://localhost:3000/12-week-program-day-4</id>
+<content type="html" xml:base="http://localhost:3000/12-week-program-day-4/">&lt;h2 id=&quot;back-and-lats-y3t&quot;&gt;Back and Lats Y3T&lt;/h2&gt;
 
 &lt;p&gt;BodySpace: &lt;a href=&quot;http://bodyspace.bodybuilding.com/brenodamata/&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:muscle:&quot; alt=&quot;:muscle:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4aa.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
 Fitbit: &lt;a href=&quot;https://www.fitbit.com/user/3WJZ2S&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:running:&quot; alt=&quot;:running:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f3c3.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
@@ -245,11 +245,11 @@ Resting Heart Rate: &lt;strong&gt;67 BPM&lt;/strong&gt; &lt;img class=&quot;emoj
 </entry>
 <entry>
 <title>12 Week Program Day 3</title>
-<link href="http://brenodamata.github.io/12-week-program-day-3/" rel="alternate" type="text/html" title="12 Week Program Day 3" />
+<link href="http://localhost:3000/12-week-program-day-3/" rel="alternate" type="text/html" title="12 Week Program Day 3" />
 <published>2016-03-09T10:07:00-05:00</published>
 <updated>2016-03-09T10:07:00-05:00</updated>
-<id>http://brenodamata.github.io/12-week-program-day-3</id>
-<content type="html" xml:base="http://brenodamata.github.io/12-week-program-day-3/">&lt;h2 id=&quot;shoulders-and-abs-y3t&quot;&gt;Shoulders and Abs Y3T&lt;/h2&gt;
+<id>http://localhost:3000/12-week-program-day-3</id>
+<content type="html" xml:base="http://localhost:3000/12-week-program-day-3/">&lt;h2 id=&quot;shoulders-and-abs-y3t&quot;&gt;Shoulders and Abs Y3T&lt;/h2&gt;
 
 &lt;p&gt;BodySpace: &lt;a href=&quot;http://bodyspace.bodybuilding.com/brenodamata/&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:muscle:&quot; alt=&quot;:muscle:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4aa.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
 Fitbit: &lt;a href=&quot;https://www.fitbit.com/user/3WJZ2S&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:running:&quot; alt=&quot;:running:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f3c3.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
@@ -503,15 +503,16 @@ BMI: &lt;strong&gt;24.6&lt;/strong&gt; &lt;em&gt;&lt;img class=&quot;emoji&quot;
 </entry>
 <entry>
 <title>Utility Belt: My Favorite Tools</title>
-<link href="http://brenodamata.github.io/utility-belt-my-favorite-tools/" rel="alternate" type="text/html" title="Utility Belt: My Favorite Tools" />
+<link href="http://localhost:3000/utility-belt-my-favorite-tools/" rel="alternate" type="text/html" title="Utility Belt: My Favorite Tools" />
 <published>2016-03-08T10:32:00-05:00</published>
 <updated>2016-03-08T10:32:00-05:00</updated>
-<id>http://brenodamata.github.io/utility-belt-my-favorite-tools</id>
-<content type="html" xml:base="http://brenodamata.github.io/utility-belt-my-favorite-tools/">&lt;p&gt;Here are my favorite tools from my Utility Belt.&lt;/p&gt;
+<id>http://localhost:3000/utility-belt-my-favorite-tools</id>
+<content type="html" xml:base="http://localhost:3000/utility-belt-my-favorite-tools/">&lt;p&gt;Here are my favorite tools from my Utility Belt.&lt;/p&gt;
 
 &lt;h3 id=&quot;menu&quot;&gt;Menu&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;#coding&quot;&gt;Coding&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#product-management&quot;&gt;Product Management&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#productivity&quot;&gt;Productivity&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#fitness&quot;&gt;Fitness&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -520,28 +521,53 @@ BMI: &lt;strong&gt;24.6&lt;/strong&gt; &lt;em&gt;&lt;img class=&quot;emoji&quot;
 
 &lt;h2 id=&quot;coding&quot;&gt;Coding&lt;/h2&gt;
 
-&lt;h5 id=&quot;githubhttpsgithubcom&quot;&gt;&lt;a href=&quot;https://github.com&quot;&gt;Github&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;Version control:
+&lt;a href=&quot;https://github.com&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
 
-&lt;h5 id=&quot;stack-overflowhttpstackoverflowcom&quot;&gt;&lt;a href=&quot;http://stackoverflow.com&quot;&gt;Stack Overflow&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;IDE:
+&lt;a href=&quot;https://www.sublimetext.com&quot;&gt;Sublime Text&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Q&amp;amp;A:
+&lt;a href=&quot;http://stackoverflow.com&quot;&gt;Stack Overflow&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;product-management&quot;&gt;Product Management&lt;/h2&gt;
+
+&lt;p&gt;Chat:
+&lt;a href=&quot;https://www.slack.com&quot;&gt;Slack&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Client communication:
+&lt;a href=&quot;https://basecamp.com&quot;&gt;Basecamp&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Collaboration:
+&lt;a href=&quot;https://trello.com&quot;&gt;Trello&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Notes:
+&lt;a href=&quot;https://evernote.com/&quot;&gt;Evernote&lt;/a&gt;, &lt;a href=&quot;https://www.dropbox.com&quot;&gt;Dropbox&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Todo Lists:
+&lt;a href=&quot;https://www.wunderlist.com/&quot;&gt;Wunderlist&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;productivity&quot;&gt;Productivity&lt;/h2&gt;
 
-&lt;h5 id=&quot;foresthttpwwwforestappcc&quot;&gt;&lt;a href=&quot;http://www.forestapp.cc&quot;&gt;Forest&lt;/a&gt;&lt;/h5&gt;
-&lt;p&gt;Review and images here&lt;/p&gt;
+&lt;p&gt;Distraction disabler:
+&lt;a href=&quot;http://www.forestapp.cc&quot;&gt;Forest&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Time tracker:
+&lt;a href=&quot;https://www.toggl.com&quot;&gt;Toggl&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;fitness&quot;&gt;Fitness&lt;/h2&gt;
 
-&lt;h5 id=&quot;fitbit-charge-hrhttpswwwfitbitcomchargehr&quot;&gt;&lt;a href=&quot;https://www.fitbit.com/chargehr&quot;&gt;Fitbit Charge HR&lt;/a&gt;&lt;/h5&gt;
-&lt;p&gt;Review and images here&lt;/p&gt;
+&lt;p&gt;Fitness tracker:
+&lt;a href=&quot;https://www.fitbit.com/chargehr&quot;&gt;Fitbit Charge HR&lt;/a&gt;&lt;/p&gt;
 
-&lt;h5 id=&quot;fitbit-aria-smart-scalehttpswwwfitbitcomaria&quot;&gt;&lt;a href=&quot;https://www.fitbit.com/aria&quot;&gt;Fitbit Aria Smart Scale&lt;/a&gt;&lt;/h5&gt;
-&lt;p&gt;Review and images here&lt;/p&gt;
+&lt;p&gt;Smart Scale:
+&lt;a href=&quot;https://www.fitbit.com/aria&quot;&gt;Fitbit Aria&lt;/a&gt;&lt;/p&gt;
 
-&lt;h5 id=&quot;fitbit-apphttpswwwfitbitcomapp&quot;&gt;&lt;a href=&quot;https://www.fitbit.com/app&quot;&gt;Fitbit App&lt;/a&gt;&lt;/h5&gt;
-&lt;p&gt;Review and images here&lt;/p&gt;
+&lt;p&gt;Apps:
+&lt;a href=&quot;https://www.fitbit.com/app&quot;&gt;Fitbit App&lt;/a&gt;, &lt;a href=&quot;https://itunes.apple.com/us/app/bodyspace-social-fitness-app/id687818146?mt=8&quot;&gt;Bodyspace&lt;/a&gt;&lt;/p&gt;
 
-&lt;h5 id=&quot;lifesumhttplifesumcom&quot;&gt;&lt;a href=&quot;http://lifesum.com&quot;&gt;Lifesum&lt;/a&gt;&lt;/h5&gt;
-&lt;p&gt;Review and images here&lt;/p&gt;
+&lt;p&gt;Nutrition:
+&lt;a href=&quot;http://lifesum.com&quot;&gt;Lifesum&lt;/a&gt;&lt;/p&gt;
 </content>
 <category term="apps" />
 <category term="productivity" />
@@ -549,11 +575,11 @@ BMI: &lt;strong&gt;24.6&lt;/strong&gt; &lt;em&gt;&lt;img class=&quot;emoji&quot;
 </entry>
 <entry>
 <title>12 Week Program Day 2</title>
-<link href="http://brenodamata.github.io/12-week-program-day-2/" rel="alternate" type="text/html" title="12 Week Program Day 2" />
+<link href="http://localhost:3000/12-week-program-day-2/" rel="alternate" type="text/html" title="12 Week Program Day 2" />
 <published>2016-03-08T10:00:00-05:00</published>
 <updated>2016-03-08T10:00:00-05:00</updated>
-<id>http://brenodamata.github.io/12-week-program-day-2</id>
-<content type="html" xml:base="http://brenodamata.github.io/12-week-program-day-2/">&lt;h2 id=&quot;chest-and-triceps-y3t&quot;&gt;Chest and Triceps Y3T&lt;/h2&gt;
+<id>http://localhost:3000/12-week-program-day-2</id>
+<content type="html" xml:base="http://localhost:3000/12-week-program-day-2/">&lt;h2 id=&quot;chest-and-triceps-y3t&quot;&gt;Chest and Triceps Y3T&lt;/h2&gt;
 
 &lt;p&gt;BodySpace: &lt;a href=&quot;http://bodyspace.bodybuilding.com/brenodamata/&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:muscle:&quot; alt=&quot;:muscle:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4aa.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
 Fitbit: &lt;a href=&quot;https://www.fitbit.com/user/3WJZ2S&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:running:&quot; alt=&quot;:running:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f3c3.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
@@ -786,11 +812,11 @@ BMI: &lt;strong&gt;25.2&lt;/strong&gt; &lt;em&gt;&lt;img class=&quot;emoji&quot;
 </entry>
 <entry>
 <title>12 Week Program Day 1</title>
-<link href="http://brenodamata.github.io/12-week-program-day-1/" rel="alternate" type="text/html" title="12 Week Program Day 1" />
+<link href="http://localhost:3000/12-week-program-day-1/" rel="alternate" type="text/html" title="12 Week Program Day 1" />
 <published>2016-03-07T21:20:00-05:00</published>
 <updated>2016-03-07T21:20:00-05:00</updated>
-<id>http://brenodamata.github.io/12-week-program-day-1</id>
-<content type="html" xml:base="http://brenodamata.github.io/12-week-program-day-1/">&lt;h2 id=&quot;legs-and-abs-y3t&quot;&gt;Legs and Abs Y3T&lt;/h2&gt;
+<id>http://localhost:3000/12-week-program-day-1</id>
+<content type="html" xml:base="http://localhost:3000/12-week-program-day-1/">&lt;h2 id=&quot;legs-and-abs-y3t&quot;&gt;Legs and Abs Y3T&lt;/h2&gt;
 
 &lt;p&gt;BodySpace: &lt;a href=&quot;http://bodyspace.bodybuilding.com/brenodamata/&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:muscle:&quot; alt=&quot;:muscle:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4aa.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
 Fitbit: &lt;a href=&quot;https://www.fitbit.com/user/3WJZ2S&quot;&gt;&lt;img class=&quot;emoji&quot; title=&quot;:running:&quot; alt=&quot;:running:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f3c3.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
@@ -955,11 +981,11 @@ Bodyfat: 16.3%&lt;/p&gt;
 </entry>
 <entry>
 <title>IMDB Faker, Ruby Gem</title>
-<link href="http://brenodamata.github.io/imdb-faker-ruby-gem/" rel="alternate" type="text/html" title="IMDB Faker, Ruby Gem" />
+<link href="http://localhost:3000/imdb-faker-ruby-gem/" rel="alternate" type="text/html" title="IMDB Faker, Ruby Gem" />
 <published>2016-03-06T20:00:00-05:00</published>
 <updated>2016-03-06T20:00:00-05:00</updated>
-<id>http://brenodamata.github.io/imdb-faker-ruby-gem</id>
-<content type="html" xml:base="http://brenodamata.github.io/imdb-faker-ruby-gem/">&lt;p&gt;Example of project - IMDB Faker Ruby Gem - &lt;a href=&quot;https://github.com/brenodamata/imdb-faker&quot;&gt;Source&lt;/a&gt;. Simple name -&amp;amp; quote- generater inspired by my favorite movie characters.&lt;/p&gt;
+<id>http://localhost:3000/imdb-faker-ruby-gem</id>
+<content type="html" xml:base="http://localhost:3000/imdb-faker-ruby-gem/">&lt;p&gt;Example of project - IMDB Faker Ruby Gem - &lt;a href=&quot;https://github.com/brenodamata/imdb-faker&quot;&gt;Source&lt;/a&gt;. Simple name -&amp;amp; quote- generater inspired by my favorite movie characters.&lt;/p&gt;
 </content>
 <category term="ruby" />
 <category term="gems" />
@@ -968,11 +994,11 @@ Bodyfat: 16.3%&lt;/p&gt;
 </entry>
 <entry>
 <title>Markdown Extra Components</title>
-<link href="http://brenodamata.github.io/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" />
+<link href="http://localhost:3000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" />
 <published>2016-02-24T22:48:00-05:00</published>
 <updated>2016-02-24T22:48:00-05:00</updated>
-<id>http://brenodamata.github.io/markdown-extra-components</id>
-<content type="html" xml:base="http://brenodamata.github.io/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+<id>http://localhost:3000/markdown-extra-components</id>
+<content type="html" xml:base="http://localhost:3000/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
 
 &lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;
 
@@ -1147,11 +1173,11 @@ star: true
 </entry>
 <entry>
 <title>Markdown Common Elements</title>
-<link href="http://brenodamata.github.io/markdown-common-elements/" rel="alternate" type="text/html" title="Markdown Common Elements" />
+<link href="http://localhost:3000/markdown-common-elements/" rel="alternate" type="text/html" title="Markdown Common Elements" />
 <published>2016-02-24T22:44:00-05:00</published>
 <updated>2016-02-24T22:44:00-05:00</updated>
-<id>http://brenodamata.github.io/markdown-common-elements</id>
-<content type="html" xml:base="http://brenodamata.github.io/markdown-common-elements/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+<id>http://localhost:3000/markdown-common-elements</id>
+<content type="html" xml:base="http://localhost:3000/markdown-common-elements/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
 
 &lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;
 
@@ -1368,11 +1394,11 @@ $(window).scroll(function() {&lt;/p&gt;
 </entry>
 <entry>
 <title>Indigo, minimalist jekyll theme</title>
-<link href="http://brenodamata.github.io/indigo-jekyll-theme/" rel="alternate" type="text/html" title="Indigo, minimalist jekyll theme" />
+<link href="http://localhost:3000/indigo-jekyll-theme/" rel="alternate" type="text/html" title="Indigo, minimalist jekyll theme" />
 <published>2016-01-23T22:10:00-05:00</published>
 <updated>2016-01-23T22:10:00-05:00</updated>
-<id>http://brenodamata.github.io/indigo-jekyll-theme</id>
-<content type="html" xml:base="http://brenodamata.github.io/indigo-jekyll-theme/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+<id>http://localhost:3000/indigo-jekyll-theme</id>
+<content type="html" xml:base="http://localhost:3000/indigo-jekyll-theme/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Example of project - Indigo Minimalist Jekyll Template - &lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Demo&lt;/a&gt;. This is a simple and minimalist template for Jekyll for those who likes to eat noodles.&lt;/p&gt;
 
