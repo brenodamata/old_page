@@ -4,7 +4,7 @@ bio: 'Product Manager & Ruby on Rails Software Engineer'
 
 # if it's an external image, update below for true
 external-image: false
-picture: 'assets/images/profile.png'
+picture: 'assets/images/profile.jpg'
 
 # Prod URL
 url: http://brenodamata.github.io
@@ -22,12 +22,12 @@ analytics-google: 'UA-63980603-1'
 # if you don't have any of social below, comment the line
 # facebook: brenodamata
 twitter: brenodamata
-# google: mygoogle
-# instagram: brenodamata
+google: brenodamata
+instagram: brenodamata
 # pinterest: brenodamata
 linkedin: brenodamata
 # youtube: brenodamata
-# spotify: brenodamata
+spotify: brenodamata
 github: brenodamata
 medium: brenodm
 email: bjrdamata@gmail.com
